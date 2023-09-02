@@ -1,10 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
   const inputAddWord = document.querySelector('.header__addWord');
   const headerForm = document.querySelector('.header__form');
-  const UlWord = document.querySelector('.words__list-word');
-  
-  const UlTranscription = document.querySelector('.words__list-transcription');
-  const UlTranslation = document.querySelector('.words__list-translation');
+  const ulWordsList = document.querySelector('.words__list'); // Получаем список слов
 
   class EnglishList {
     constructor(newWord, newTranscription, newTranslation) {
@@ -12,54 +9,50 @@ document.addEventListener('DOMContentLoaded', function () {
       this.transcription = newTranscription;
       this.translation = newTranslation;
     }
-    addWord() {
-      // Создание нового элемента <li>
+
+    addWord(id) { 
+      
       const newWordLi = document.createElement('li');
-      newWordLi.className = 'words__list-word'; // Добавляем класс
-    
-      // Создание <div> для группировки элементов
+      newWordLi.className = 'words__list-word'; 
+
       const wordDiv = document.createElement('div');
-      wordDiv.className = 'words__box-content'; // Добавляем класс
-    
-      // Создание <input> для слова, транскрипции и перевода
+      wordDiv.className = 'words__box-content'; 
+
       const inputWord = document.createElement('input');
-      inputWord.className = 'words__input'; // Добавляем класс
+      inputWord.className = 'words__input'; 
       inputWord.placeholder = this.word;
-    
+      inputWord.setAttribute('data-id',id)
+
       const inputTranscription = document.createElement('input');
-      inputTranscription.className = 'words__input'; // Добавляем класс
+      inputTranscription.className = 'words__input'; 
       inputTranscription.placeholder = this.transcription;
-    
+      inputTranscription.setAttribute('data-id',id)
+
       const inputTranslation = document.createElement('input');
-      inputTranslation.className = 'words__input'; // Добавляем класс
+      inputTranslation.className = 'words__input'; 
       inputTranslation.placeholder = this.translation;
-    
-      // Добавление <input> элементов в <div>
+      inputTranslation.setAttribute('data-id', id)
+
       wordDiv.appendChild(inputWord);
       wordDiv.appendChild(inputTranscription);
       wordDiv.appendChild(inputTranslation);
-    
-      // Добавление <div> в <li>
+
       newWordLi.appendChild(wordDiv);
-    
+
       // Создание <input> для чекбокса
       const checkbox = document.createElement('input');
-      checkbox.className = 'words__list-checkbox'; // Добавляем класс
+      checkbox.className = 'words__list-checkbox'; 
       checkbox.type = 'checkbox';
-      checkbox.dataset.id = this.id; // Устанавливаем значение атрибута data-id
-    
-      // Добавление чекбокса в <li>
+      checkbox.dataset.id = id; 
+
       newWordLi.appendChild(checkbox);
-    
-      // Найти соответствующий <ul> контейнер по классу
-      const ulWordsList = document.querySelector('.words__list');
-    
-      // Добавление созданного элемента <li> в <ul>
+
       ulWordsList.appendChild(newWordLi);
     }
+
     async saveToDatabase() {
       console.log('Saving data:', this.word, this.transcription, this.translation);
-      
+
       try {
         const response = await fetch('/', {
           method: 'POST',
@@ -72,8 +65,10 @@ document.addEventListener('DOMContentLoaded', function () {
             translation: this.translation,
           }),
         });
-    
+
         if (response.ok) {
+          const { _id } = await response.json(); 
+          this.addWord(_id);
           console.log('Data saved successfully.');
         } else {
           console.error('Error saving data:', response.statusText);
@@ -91,7 +86,6 @@ document.addEventListener('DOMContentLoaded', function () {
     if (boolean) {
       const [word, transcription, translation] = splitWord(valueInput);
       const englishList = new EnglishList(word, transcription, translation);
-      englishList.addWord();
       englishList.saveToDatabase();
       window.location.reload();
     } else {
@@ -110,5 +104,3 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   }
 });
-
-

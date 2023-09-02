@@ -74,46 +74,46 @@ app.get('/reader', (req, res) => {
 // ---------------------------------------------------------- доделать 
 
 
-const storage = multer.memoryStorage();
-const upload = multer({ storage: storage });
+// const storage = multer.memoryStorage();
+// const upload = multer({ storage: storage });
 
 
-app.post('/upload', upload.single('pdfFile'), async (req, res) => {
-  const pdfData = new Uint8Array(req.file.buffer);
+// app.post('/', upload.single('pdfFile'), async (req, res) => {
+//   const pdfData = new Uint8Array(req.file.buffer);
   
-  const loadingTask = pdfjsLib.getDocument({ data: pdfData });
-  const pdfDocument = await loadingTask.promise;
+//   const loadingTask = pdfjsLib.getDocument({ data: pdfData });
+//   const pdfDocument = await loadingTask.promise;
 
-  const allWords = [];
+//   const allWords = [];
 
-  for (let pageNum = 1; pageNum <= pdfDocument.numPages; pageNum++) {
-    const page = await pdfDocument.getPage(pageNum);
-    const pageText = await page.getTextContent();
-    const words = pageText.items.map(item => item.str);
+//   for (let pageNum = 1; pageNum <= pdfDocument.numPages; pageNum++) {
+//     const page = await pdfDocument.getPage(pageNum);
+//     const pageText = await page.getTextContent();
+//     const words = pageText.items.map(item => item.str);
     
-    allWords.push(...words);
-  }
+//     allWords.push(...words);
+//   }
 
-  const uniqueWords = [...new Set(allWords)]; 
+//   const uniqueWords = [...new Set(allWords)]; 
 
-  const singleWords = uniqueWords
-    .map(word => word.trim())
-    .filter(word => /^[a-zA-Z]+$/.test(word)); 
+//   const singleWords = uniqueWords
+//     .map(word => word.trim())
+//     .filter(word => /^[a-zA-Z]+$/.test(word)); 
 
-    console.log(singleWords.length)
-  const textWords = singleWords.join(' ');
+//     console.log(singleWords.length)
+//   const textWords = singleWords.join(' ');
 
 
-  fs.writeFile('text.txt', textWords, (err) => {
-    if (err) {
-      console.error('Error writing to file:', err);
-      return res.status(500).json({ error: 'Error writing to file' });
-    }
+//   fs.writeFile('text.txt', textWords, (err) => {
+//     if (err) {
+//       console.error('Error writing to file:', err);
+//       return res.status(500).json({ error: 'Error writing to file' });
+//     }
     
-    console.log('Words saved to text.txt');
-    res.json({ message: 'Words saved to text.txt' });
-  });
-});
+//     console.log('Words saved to text.txt');
+//     res.json({ message: 'Words saved to text.txt' });
+//   });
+// });
 
 
 app.post('/', async (req, res) => {
@@ -121,7 +121,8 @@ app.post('/', async (req, res) => {
     const { word, transcription, translation } = req.body;
     const post = new Post({ word, transcription, translation });
     await post.save();
-    res.status(200).send('Data saved successfully');
+    res.status(200).json({ _id: post._id }); // Отправляем JSON объект с _id
+    console.log(post._id)
   } catch (error) {
     console.error('Error saving data to database:', error);
     res.status(500).send('An error occurred while saving data');
@@ -141,12 +142,12 @@ app.delete('/:id' , (req, res) => {
 })
 
 
-app.post('/', async (req, res) => {
-  const { word, field, value } = req.body; // Получите слово из запроса
+app.patch('/', async (req, res) => {
+  const { id, field, value } = req.body;
 
   try {
     const updateFields = { [field]: value };
-    const updatedElement = await Post.findOneAndUpdate({ word: word }, updateFields, { new: true });
+    const updatedElement = await Post.findByIdAndUpdate(id, updateFields, { new: true });
 
     if (!updatedElement) {
       return res.status(404).json({ error: 'Element not found' });

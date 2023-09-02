@@ -19,7 +19,7 @@ buttonDelete.addEventListener('click', async (event) => {
 
         const wordId = checkbox.dataset.id;
         try {
-          const response = await fetch(`/`, {
+          const response = await fetch(`/${wordId}`, {
             method: 'DELETE'
           });
 
