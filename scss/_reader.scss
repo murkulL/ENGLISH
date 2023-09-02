@@ -1,0 +1,28 @@
+#uploadForm{
+  text-align: center;
+  padding-top: 40px;
+
+  & button{
+    background-color: transparent;
+    color: #bababa;
+    transition: all .3s ease-in-out;
+    border: transparent;
+    border-radius: 4px;
+    width: 100px;
+    height: 30px;
+
+    &:hover{
+      background-color: #bfbfbf3d;
+    }
+  }
+  & input{
+    margin-right: 20px;
+  }
+}
+
+.header{
+  &__link{
+  position: relative;
+  top: 20px;
+}
+}

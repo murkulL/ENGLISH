@@ -1,0 +1,1687 @@
+Apple [ˈæpəl] - Яблоко
+Dog [dɔɡ] - Собака
+Cat [kæt] - Кошка
+House [haʊs] - Дом
+Car [kɑr] - Машина
+Book [bʊk] - Книга
+Sun [sʌn] - Солнце
+Moon [mun] - Луна
+Water [ˈwɔtər] - Вода
+Fire [faɪr] - Огонь
+Table [ˈteɪbəl] - Стол
+Chair [tʃɛr] - Стул
+Computer [kəmˈpjuːtər] - Компьютер
+Phone [foʊn] - Телефон
+Friend [frɛnd] - Друг
+Family [ˈfæməli] - Семья
+Love [lʌv] - Любовь
+Time [taɪm] - Время
+Money [ˈmʌni] - Деньги
+School [skul] - Школа
+Doctor [ˈdɑktər] - Врач
+Hospital [ˈhɑːspɪtl] - Больница
+Music [ˈmjuzɪk] - Музыка
+Movie [ˈmuːvi] - Фильм
+Beach [biːtʃ] - Пляж
+Mountain [ˈmaʊntən] - Гора
+Forest [ˈfɔrɪst] - Лес
+Flower [ˈflaʊər] - Цветок
+Rain [reɪn] - Дождь
+Snow [snoʊ] - Снег
+Wind [wɪnd] - Ветер
+Sea [siː] - Море
+River [ˈrɪvər] - Река
+Star [stɑːr] - Звезда
+Sky [skaɪ] - Небо
+Earth [ɜːrθ] - Земля
+Air [ɛr] - Воздух
+Food [fuːd] - Еда
+Drink [drɪŋk] - Напиток
+Sleep [sliːp] - Сон
+Wake [weɪk] - Будиться
+Read [riːd] - Читать
+Write [raɪt] - Писать
+Listen [ˈlɪsn] - Слушать
+Speak [spiːk] - Говорить
+Sing [sɪŋ] - Петь
+Dance [dæns] - Танцевать
+Run [rʌn] - Бегать
+Walk [wɔːk] - Ходить
+Jump [dʒʌmp] - Прыгать
+Swim [swɪm] - Плавать
+Drive [draɪv] - Водить (машины)
+Fly [flaɪ] - Летать
+Eat [iːt] - Есть
+Drink [drɪŋk] - Пить
+Sleep [sliːp] - Спать
+Dream [driːm] - Мечтать
+Think [θɪŋk] - Думать
+See [siː] - Видеть
+Hear [hɪr] - Слышать
+Touch [tʌtʃ] - Касаться
+Smell [smɛl] - Пахнуть
+Taste [teɪst] - Пробовать
+Laugh [læf] - Смеяться
+Cry [kraɪ] - Плакать
+Smile [smaɪl] - Улыбаться
+Sing [sɪŋ] - Петь
+Dance [dæns] - Танцевать
+Talk [tɔːk] - Разговаривать
+Walk [wɔːk] - Ходить
+Run [rʌn] - Бегать
+Jump [dʒʌmp] - Прыгать
+Climb [klaɪm] - Забираться
+Play [pleɪ] - Играть
+Learn [lɜːrn] - Учиться
+Teach [tiːʧ] - Учить
+Read [riːd] - Читать
+Write [raɪt] - Писать
+Draw [drɔː] - Рисовать
+Paint [peɪnt] - Красить
+Cook [kʊk] - Готовить
+Bake [beɪk] - Выпекать
+Clean [kliːn] - Чистить
+Wash [wɑːʃ] - Мыть
+Shower [ˈʃaʊər] - Душ
+Brush [brʌʃ] - Чистить (зубы)
+Comb [koʊm] - Расчесывать
+Cut [kʌt] - Резать
+Sew [soʊ] - Шить
+Tie [taɪ] - Завязывать
+Wear [wɛr] - Носить (одежду)
+Take [teɪk] - Брать
+Give [ɡɪv] - Давать
+Receive [rɪˈsiːv] - Получать
+Open [ˈoʊpən] - Открывать
+Close [kloʊz] - Закрывать
+Push [pʊʃ] - Толкать
+Pull [pʊl] - Тянуть
+Lift [lɪft] - Поднимать
+Drop [drɒp] - Отпускать
+Look [lʊk] - Смотреть
+Search [sɜːrtʃ] - Искать
+Find [faɪnd] - Находить
+Lose [luːz] - Терять
+Win [wɪn] - Выигрывать
+Fail [feɪl] - Провалиться
+Succeed [səkˈsiːd] - Достигать успеха
+Create [kriːˈeɪt] - Создавать
+Destroy [dɪˈstrɔɪ] - Уничтожать
+Build [bɪld] - Строить
+Break [breɪk] - Ломать
+Fix [fɪks] - Чинить
+Help [hɛlp] - Помогать
+Hurt [hɜːrt] - Ранить
+Protect [prəˈtɛkt] - Защищать
+Attack [əˈtæk] - Атаковать
+Defend [dɪˈfɛnd] - Защищать
+Drive [draɪv] - Водить (транспорт)
+Ride [raɪd] - Кататься
+Walk [wɔːk] - Гулять
+Run [rʌn] - Бегать
+Swim [swɪm] - Плавать
+Fly [flaɪ] - Летать
+Crawl [krɔːl] - Ползать
+Jump [dʒʌmp] - Прыгать
+Play [pleɪ] - Играть
+Win [wɪn] - Побеждать
+Lose [luːz] - Проигрывать
+Score [skɔːr] - Счет (в спорте)
+Compete [kəmˈpiːt] - Соревноваться
+Exercise [ˈɛksərsaɪz] - Упражнение
+Stretch [strɛʧ] - Растягивать
+Flex [flɛks] - Сгибать
+Bend [bɛnd] - Гнуть
+Twist [twɪst] - Вращать
+Lift [lɪft] - Поднимать
+Push [pʊʃ] - Толкать
+Pull [pʊl] - Тянуть
+Carry [ˈkæri] - Нести
+Throw [θroʊ] - Бросать
+Catch [kæʧ] - Ловить
+Release [rɪˈliːs] - Отпускать
+Aim [eɪm] - Целиться
+Shoot [ʃut] - Стрелять
+Kick [kɪk] - Ударять ногой
+Punch [pʌntʃ] - Бить кулаком
+Block [blɑːk] - Блокировать
+Dodge [dɒdʒ] - Уклоняться
+Attack [əˈtæk] - Нападать
+Defend [dɪˈfɛnd] - Защищаться
+Strategy [ˈstrætədʒi] - Стратегия
+Tactics [ˈtæktɪks] - Тактика
+Victory [ˈvɪktəri] - Победа
+Defeat [dɪˈfiːt] - Поражение
+Team [tiːm] - Команда
+Player [ˈpleɪər] - Игрок
+Coach [koʊʧ] - Тренер
+Referee [ˌrɛfəˈriː] - Судья
+Trophy [ˈtroʊfi] - Трофей
+Medal [ˈmɛdl] - Медаль
+Coach [koʊʧ] - Автобус
+Train [treɪn] - Поезд
+Plane [pleɪn] - Самолет
+Ship [ʃɪp] - Корабль
+Bicycle [ˈbaɪsɪkl] - Велосипед
+Motorbike [ˈmoʊtərbaɪk] - Мотоцикл
+Taxi [ˈtæksi] - Такси
+Subway [ˈsʌbweɪ] - Метро
+Bus [bʌs] - Автобус
+Tram [træm] - Трамвай
+Street [striːt] - Улица
+Road [roʊd] - Дорога
+Highway [ˈhaɪweɪ] - Шоссе
+Lane [leɪn] - Полоса движения
+Path [pæθ] - Путь
+Bridge [brɪdʒ] - Мост
+Tunnel [ˈtʌnl] - Туннель
+Airport [ˈɛrˌpɔrt] - Аэропорт
+Station [ˈsteɪʃən] - Вокзал, станция
+Port [pɔːrt] - Порт
+Stop [stɑːp] - Остановка
+Go [ɡoʊ] - Идти, ехать
+Wait [weɪt] - Ждать
+Arrive [əˈraɪv] - Прибывать
+Depart [dɪˈpɑːrt] - Отправляться
+Board [bɔːrd] - Садиться на борт
+Ticket [ˈtɪkɪt] - Билет
+Passport [ˈpæspɔːrt] - Паспорт
+Visa [ˈviːzə] - Виза
+Luggage [ˈlʌɡɪdʒ] - Багаж
+Suitcase [ˈsuːtkeɪs] - Чемодан
+Backpack [ˈbækˌpæk] - Рюкзак
+Bag [bæɡ] - Сумка
+Wallet [ˈwɔlɪt] - Кошелек
+Purse [pɜːrs] - Дамская сумка
+Phone [foʊn] - Телефон
+Charger [ˈʧɑːrdʒər] - Зарядное устройство
+Battery [ˈbætəri] - Батарея
+Screen [skriːn] - Экран
+Button [ˈbʌtn] - Кнопка
+Programming [ˈproʊɡræmɪŋ] - Программирование
+Code [koʊd] - Код
+Algorithm [ˈælɡəˌrɪðəm] - Алгоритм
+Function [ˈfʌŋkʃən] - Функция
+Variable [ˈvɛriəbl] - Переменная
+Array [əˈreɪ] - Массив
+Loop [luːp] - Цикл
+If [ɪf] - Если
+Else [ɛls] - Иначе
+While [waɪl] - Пока
+For [fɔːr] - Для
+Switch [swɪʧ] - Переключатель
+Break [breɪk] - Прерывание
+Continue [kənˈtɪnjuː] - Продолжить
+Return [rɪˈtɜːrn] - Возврат
+Debug [diːˈbʌɡ] - Отладка
+Error [ˈɛrər] - Ошибка
+Bug [bʌɡ] - Баг
+Compile [kəmˈpaɪl] - Компилировать
+Run [rʌn] - Запускать
+Test [tɛst] - Тестировать
+Deploy [dɪˈplɔɪ] - Развертывать
+Git [ɡɪt] - Гит (система контроля версий)
+Repository [rɪˈpɒzɪtəri] - Репозиторий
+Branch [brænʧ] - Ветка
+Merge [mɜːrdʒ] - Слияние
+Pull request [pʊl rɪˈkwɛst] - Запрос на включение изменений
+Front-End [frʌnt ɛnd] - Фронтенд (разработка пользовательского интерфейса)
+HTML [eɪʧ tiː ɛm ɛl] - HTML (язык разметки)
+CSS [siː ɛs ɛs] - CSS (каскадные таблицы стилей)
+JavaScript [ˈʤɑːvəˌskrɪpt] - JavaScript (язык программирования)
+Framework [ˈfreɪmwɜːrk] - Фреймворк
+Library [ˈlɪbrəri] - Библиотека
+Responsive [rɪˈspɒnsɪv] - Адаптивный
+Design [dɪˈzaɪn] - Дизайн
+Interface [ˈɪntərfeɪs] - Интерфейс
+User [ˈjuːzər] - Пользователь
+Click [klɪk] - Клик
+Hover [ˈhoʊvər] - Наведение
+Input [ˈɪnpʊt] - Ввод
+Output [ˈaʊtpʊt] - Вывод
+Database [ˈdeɪtəbeɪs] - База данных
+SQL [ˌɛs kjuː ˈɛl] - SQL (язык структурированных запросов)
+API [ˌeɪ piː ˈaɪ] - API (интерфейс программирования приложений)
+Endpoint [ˈɛndˌpɔɪnt] - Эндпоинт (конечная точка API)
+Request [rɪˈkwɛst] - Запрос
+Response [rɪˈspɒns] - Ответ
+Server [ˈsɜːrvər] - Сервер
+Client [ˈklaɪənt] - Клиент
+Hosting [ˈhoʊstɪŋ] - Хостинг
+Domain [dəˈmeɪn] - Домен
+URL [juː ɑːr ˈɛl] - URL (унифицированный указатель ресурса)
+Webpage [ˈwɛbpɪdʒ] - Веб-страница
+Website [ˈwɛbsaɪt] - Веб-сайт
+Navigation [ˌnævɪˈɡeɪʃən] - Навигация
+Link [lɪŋk] - Ссылка
+Button [ˈbʌtn] - Кнопка
+Form [fɔːrm] - Форма
+Input [ˈɪnpʊt] - Поле ввода
+Checkbox [ˈʧɛkbɑːks] - Флажок
+Radio [ˈreɪdioʊ] - Радиокнопка
+Dropdown [ˈdraʊnˌdaʊn] - Выпадающий список
+Textarea [ˈtɛkstˌɛrɪə] - Текстовая область
+Image [ˈɪmɪdʒ] - Изображение
+Video [ˈvɪdioʊ] - Видео
+Audio [ˈɔːdioʊ] - Аудио
+Animation [ˌænɪˈmeɪʃən] - Анимация
+Responsive [rɪˈspɒnsɪv] - Адаптивный
+Mobile [ˈmoʊbaɪl] - Мобильный
+Tablet [ˈtæblɪt] - Планшет
+Desktop [ˈdɛsktɒp] - Настольный компьютер
+Browser [ˈbraʊzər] - Браузер
+Chrome [kroʊm] - Chrome (браузер)
+Firefox [ˈfaɪəˌfɑks] - Firefox (браузер)
+Safari [səˈfɑːri] - Safari (браузер)
+Edge [ɛdʒ] - Edge (браузер)
+Internet [ˈɪntərnɛt] - Интернет
+Online [ˈɒnlaɪn] - Онлайн
+Offline [ˈɔːflaɪn] - Офлайн
+proofreader [ˈpruːfˌriːdər] - корректор
+indexer [ˈɪndɛksər] - индексатор
+birmingham [ˈbɜːrmɪŋˌhæm] - бирмингем
+at [æt] - в
+contributors [kənˈtrɪbjʊtərz] - участники
+preface [ˈpriːfɪs] - предисловие
+summary [ˈsʌməri] - резюме
+classes [ˈklæsɪz] - классы
+interfaces [ˈɪntərfeɪsɪz] - интерфейсы
+interface [ˈɪntərfeɪs] - интерфейс
+rest [rɛst] - отдых
+find [faɪnd] - находить
+filter [ˈfɪltər] - фильтровать
+map [mæp] - отображать
+reduce [rɪˈduːs] - уменьшать
+set [sɛt] - множество
+map [mæp] - карта
+state [steɪt] - состояние
+simplicity [sɪmˈplɪsɪti] - простота
+system [ˈsɪstəm] - система
+transpilation [trænsˌpaɪˈleɪʃən] - транспиляция
+mocking [ˈmɑːkɪŋ] - мокирование
+development [dɪˈvɛləpmənt] - разработка
+prettier [ˈprɪtiər] - красивее
+routing [ˈruːtɪŋ] - маршрутизация
+debugging [diːˈbʌɡɪŋ] - отладка
+application [ˌæplɪˈkeɪʃən] - приложение
+redis [ˈrɛdɪs] - редис
+typeorm [ˈtaɪpɔrm] - типорм
+graphql [ˈɡræfˌkwɪl] - графкюэль
+troubleshooting [ˈtrʌblˌʃuːtɪŋ] - устранение неполадок
+code [koʊd] - код
+in [ɪn] - в
+text [tɛkst] - текст
+src [sɑrs] - исходный код
+let [lɛt] - позволяет
+a [ə] - а
+b [biː] - би
+exten [ɛkˈstɛn] - расширение
+npm [ˌɛnpiːˈɛm] - npm (управление пакетами)
+install [ɪnˈstɔːl] - установить
+typescript [ˈtaɪpskrɪpt] - тайпскрипт
+bold [boʊld] - жирный
+administration [ədˌmɪnɪsˈtreɪʃən] - администрирование
+errata [ɪˈrætə] - поправки
+piracy [ˈpaɪrəsi] - пиратство
+reviews [rɪˈvjuːz] - обзоры
+oop [uːˌoʊˈpiː] - ООП (объектно-ориентированное программирование)
+vscode [ˌviːsiːkoʊd] - ВСКод (редактор кода Visual Studio Code)
+handsontypescript [ˌhændzˌɒnˈtaɪpskrɪpt] - практический тайпскрипт
+file [faɪl] - файл
+open [ˈoʊpən] - открыть
+view [vjuː] - вид
+terminal [ˈtɜːrmənl] - терминал
+package [ˈpækɪdʒ] - пакет
+init [ɪˈnɪt] - инициализировать
+tsc [tiː ɛs siː] - тсс (компилятор TypeScript)
+node [noʊd] - нода (среда выполнения)
+the [ðə] - артикль "the"
+and [ænd] - и
+number [ˈnʌmbər] - номер
+type [taɪp] - тип
+is [ɪz] - это (глагол "быть" в 3-ем лице единственного числа)
+not [nɑt] - не
+assignable [əˈsaɪnəbl] - приемлемый
+to [tuː] - к (предлог)
+function [ˈfʌŋkʃən] - функция
+else [ɛls] - иначе
+allow [əˈlaʊ] - разрешать
+const [kɒnst] - константа
+tom [tɒm] - Том
+canDrive [kæn draɪv] - может водить
+for [fɔːr] - для
+age [eɪdʒ] - возраст
+interface [ˈɪntərfeɪs] - интерфейс
+user [ˈjuːzər] - пользователь
+name [neɪm] - имя
+usr [ʌsr] - узр (вероятно, ошибка в написании)
+property [ˈprɒpərti] - свойство
+missing [ˈmɪsɪŋ] - отсутствующий
+but [bʌt] - но
+required [rɪˈkwaɪrd] - требуемый
+pretend [prɪˈtɛnd] - притворяться
+sometime [ˈsʌmˌtaɪm] - когда-нибудь
+later [ˈleɪtər] - позже
+someone [ˈsʌmˌwʌn] - кто-то
+uses [ˈjuzɪz] - использует
+encapsulation [ɛnˌkæpsjʊˈleɪʃən] - инкапсуляция
+abstraction [æbˈstrækʃən] - абстракция
+inheritance [ɪnˈhɛrɪtəns] - наследование
+polymorphism [ˌpɑːliˈmɔːrfɪzəm] - полиморфизм
+private [ˈpraɪvɪt] - приватный
+instanceof [ˌɪnˈstænsəv] - экземпляр класса
+a [ə] - артикль "a"
+instance [ˈɪnstəns] - экземпляр
+class [klæs] - класс
+person [ˈpɜːrsən] - человек
+string [strɪŋ] - строка
+jill [dʒɪl] - Джилл
+person [ˈpɜːrsən] - человек
+shape [ʃeɪp] - форма
+any [ˈɛni] - любой
+unknown [ʌnˈnoʊn] - неизвестный
+val [væl] - значение
+new [nuː] - новый
+push [pʊʃ] - добавить
+array [əˈreɪ] - массив
+if [ɪf] - если
+intersection [ˌɪntərˈsɛkʃən] - пересечение
+obj [ɒbʤ] - объект
+union [ˈjuːnjən] - объединение
+null [nʌl] - null
+unionObj [ˈjuːnjənɒbʤ] - объединение объекта
+literal [ˈlɪtərəl] - литерал
+john [dʒɒn] - Джон
+points [pɔɪnts] - очки
+score [skɔːr] - счет
+complexPerson [ˌkɒmplɛksˈpɜːrsən] - сложный человек
+return [rɪˈtɜːrn] - вернуть
+distance [ˈdɪstəns] - расстояние
+runMore [rʌn mɔːr] - беги больше
+void [vɔɪd] - пустота
+ate [eɪt] - ел
+calories [ˈkæləriz] - калории
+slept [slɛpt] - спал
+hours [ˈaʊərz] - часы
+undefined [ˌʌndɪˈfaɪnd] - неопределенный
+run [rʌn] - бежать
+boolean [ˈbuːliən] - булевый
+runner [ˈrʌnər] - бегун
+true [truː] - истина
+false [fɔːls] - ложь
+never [ˈnɛvər] - никогда
+throw [θroʊ] - выбросить
+msg [mɛsɪdʒ] - сообщение
+speak [spiːk] - говорить
+hello [həˈloʊ] - привет
+called [ˈkɔːld] - названный
+readonly [ˈriːdˌoʊnli] - только для чтения
+even [ˈiːvən] - даже
+getters [ˈɡɛtərz] - геттеры
+setters [ˈsɛtərz] - сеттеры
+getter [ˈɡɛtər] - геттер
+setter [ˈsɛtər] - сеттер
+speaker [ˈspiːkər] - динамик (говорящее устройство)
+get [ɡɛt] - получить
+set [sɛt] - установить
+tmpMessage [tmpˈmɛsɪdʒ] - временное сообщение
+public [ˈpʌblɪk] - публичный
+static [ˈstætɪk] - статический
+classA [klæs eɪ] - классА
+typeName [taɪp neɪm] - имяТипа
+runner [ˈrʌnər] - бегун
+run [rʌn] - бежать
+interfaces [ˈɪntərfeɪsɪz] - интерфейсы
+employee [ˌɛmplɔɪˈiː] - сотрудник
+getUniqueId [ɡɛt ˌjuːˈnaɪkwaɪd] - получитьУникальныйИдентификатор
+uniqueId [juːˈniːkˌaɪd] - уникальныйИдентификатор
+linda [ˈlɪndə] - Линда
+id [aɪd] - идентификатор
+pam [pæm] - Пэм
+handle [ˈhændəl] - обрабатывать
+or [ɔːr] - или
+inheritance [ɪnˈhɛrɪtəns] - наследование
+vehicle [ˈviːɪkl] - транспортное средство
+motorcycle [ˈmoʊtərsaɪkl] - мотоцикл
+extends [ɪkˈstɛndz] - расширяет
+automobile [ˈɔːtəmoʊˌbiːl] - автомобиль
+motorcycle [ˈmoʊtərsaɪkl] - мотоцикл
+autoMobile [ˈɔːtoʊmoʊˌbiːl] - автомобиль
+super [ˈsuːpər] - супер
+wheelCount [wiːl kaʊnt] - количество колес
+showNumberOfWheels [ʃoʊ ˈnʌmbər ʌv wiːlz] - показатьКоличествоКолес
+updateWheelCount [ʌpˈdeɪt wiːl kaʊnt] - обновитьКоличество Колес
+protected [prəˈtɛktɪd] - защищенный
+parent [ˈpɛrənt] - родитель
+namespaces [ˈneɪmsˌpeɪsɪz] - пространства имен
+namespace [ˈneɪmsˌpeɪs] - пространство имен
+FirstClass [fɜːrst klæs] - ПервыйКласс
+B [biː] - Би
+SecondClass [ˈsɛkənd klæs] - ВторойКласс
+test [tɛst] - тест
+AbstractNamespace [ˈæbstrækt ˈneɪmsˌpeɪs] - АбстрактноеПространствоИмен
+abstract [ˈæbstrækt] - абстрактный
+has [hæz] - имеет
+member [ˈmɛmbər] - член
+overriding [ˌoʊvərˈraɪdɪŋ] - переопределение
+InterfaceNamespace [ˈɪntərfeɪs ˈneɪmsˌpeɪs] - ПространствоИнтерфейса
+Thing [θɪŋ] - вещь
+getFullName [ɡɛt ˈfʊlˌneɪm] - получитьПолноеИмя
+although [ɔːlˈðoʊ] - хотя
+because [bɪˈkɔːz] - потому что
+implements [ˈɪmpləmənts] - реализует
+no [noʊ] - нет
+moto [ˈmoʊtoʊ] - мото
+Generics [dʒəˈnɛrɪks] - обобщения
+T [tiː] - Ти
+arg [ɑːrg] - аргумент
+length [lɛŋθ] - длина
+getLength [ɡɛt lɛŋθ] - получитьДлину
+HasLength [hæz lɛŋθ] - ИмеетДлину
+whatever [wətˈɛvər] - что угодно
+GenericNamespace [dʒəˈnɛrɪk ˈneɪmsˌpeɪs] - ОбобщенноеПространствоИмен
+Wheels [wiːlz] - Колеса
+Wheel [wiːl] - Колесо
+Chevy [ˈʧɛvi] - Шеви
+chevy [ˈʧɛvi] - шеви
+compiler [kəmˈpaɪlər] - компилятор
+OptionalChainingNS [ˈɑːpʃənl ˈʧeɪnɪŋ ˈɛnˈɛs] - ПространствоОпциональныхЦепочек
+car [kɑːr] - автомобиль
+wheels [wiːlz] - колеса
+count [kaʊnt] - количество
+last [læst] - последний
+result [rɪˈzʌlt] - результат
+lib [lɪb] - библиотека
+ts [tiː ɛs] - тс (сокращение TypeScript)
+this [ðɪs] - это
+async [ˈæsɪŋk] - асинхронный
+await [əˈweɪt] - ожидание
+context [ˈkɒntɛkst] - контекст
+HandsOnTypescript [ˈhændzˌɒn taɪpskrɪpt] - ПрактическийТайпскрипт
+scoping [ˈskoʊpɪŋ] - области видимости
+var [vɑːr] - переменная
+go [ɡoʊ] - идти
+constants [ˈkɒnstənts] - константы
+lets [lɛts] - позволяет
+use [juːs] - использовать
+versus [ˈvɜːrsəs] - против
+window [ˈwɪndoʊ] - окно
+MyFunction [maɪ ˈfʌŋkʃən] - МояФункция
+using [ˈjuːzɪŋ] - используя
+file [faɪl] - файл
+myFunc [maɪ fʌŋk] - мояФункция
+arguments [ˈɑːrɡjʊmənts] - аргументы
+func [fʌŋk] - функция
+of [ʌv] - из
+apply [əˈplaɪ] - применять
+call [kɔːl] - вызов
+bind [baɪnd] - привязать
+writes [raɪts] - записывает
+callerObj [ˈkɔːlərɑːbʤ] - вызывающийОбъект
+I [aɪ] - я
+have [hæv] - имею
+my [maɪ] - мой
+jon [ʤɑːn] - Джон
+checkMyThis [ʧɛk maɪ ðɪs] - проверьМоеЭто
+field [fiːld] - поле
+follows [ˈfɑːloʊz] - следует
+spread [sprɛd] - распространение
+objb [ɒbdʒ b] - объектБ
+into [ˈɪntuː] - в
+obja [ɒbdʒ eɪ] - объектА
+NamespaceA [ˈneɪmsˌpeɪs eɪ] - ПространствоИменА
+c [siː] - си
+d [diː] - ди
+spreadObj [sprɛd ɒbdʒ] - распространениеОбъекта
+aname [eɪneɪm] - анейм
+bname [biːneɪm] - бнейм
+after [ˈæftər] - после
+SpreadArray [sprɛd ˈærɪ] - РаспространениеМассива
+concat [kənˈkæt] - объединить
+Destructuring [diːˈstrʌktʃərɪŋ] - деструктуризация
+getEmployee [ɡɛt ˌɛmplɔɪˈiː] - получитьСотрудника
+by [baɪ] - по
+employee [ˌɛmplɔɪˈiː] - сотрудник
+fullName [ˈfʊlˌneɪm] - полноеИмя
+getEmployeeWorkInfo [ɡɛt ˌɛmplɔɪˈiː wɜːrk ˈɪnfoʊ] - получитьИнформациюОРаботеСотрудника
+doSomething [duː ˈsʌmθɪŋ] - сделатьЧто-то
+rest [rɛst] - остальное
+items [ˈaɪtəmz] - элементы
+filterItems [ˈfɪltər ˈaɪtəmz] - фильтроватьЭлементы
+results [rɪˈzʌlts] - результаты
+employees [ˌɛmplɔɪˈiːz] - сотрудники
+elements [ˈɛlɪmənts] - элементы
+item [ˈaɪtəm] - элемент
+index [ˈɪndɛks] - индекс
+allTrucks [ɔːl ˈtrʌks] - все грузовики
+initialCapacity [ɪˈnɪʃəl kəˈpæsɪti] - начальнаяЕмкость
+allTonnage [ɔːl ˈtʌnɪdʒ] - весьТоннаж
+totalCapacity [ˈtoʊtəl kəˈpæsɪti] - общаяЕмкость
+at [æt] - в
+some [sʌm] - некоторые
+every [ˈɛvri] - каждый
+all [ɔːl] - все
+widgets [ˈwɪdʒɪts] - виджеты
+are [ɑːr] - являются
+one [wʌn] - одним
+userIds [ˈjuːzəraɪdz] - идентификаторыПользователя
+uniqueIds [juːˈniːk ˈaɪdz] - уникальныеИдентификаторы
+size [saɪz] - размер
+sample [ˈsæmpl] - пример
+mappedEmp [ˈmæpt ɛmplɔɪˈiː] - отображенныйСотрудник
+jim [ʤɪm] - Джим
+C [siː] - Си
+statement [ˈsteɪtmənt] - оператор
+reducer [rɪˈduːsər] - редьюсер
+i [aɪ] - я
+it [ɪt] - это
+callback [ˈkælbæk] - обратный вызов
+setTimeout [ˌset təmˈaʊt] - установитьТаймаут
+setInterval [ˌsɛt ɪntərˈvæl] - установитьИнтервал
+callstack [kɔːl stæk] - стекВызовов
+waited [ˈweɪtɪd] - ждал
+am [æm] - я
+done [dʌn] - готов
+finish [ˈfɪnɪʃ] - завершить
+Did [dɪd] - Сделал
+now [naʊ] - теперь
+SetTimeout [sɛt taɪmˈaʊt] - УстановитьТаймаут
+Before [bɪˈfɔːr] - до
+Promise [ˈprɒmɪs] - обещание
+myPromise [maɪ ˈprɒmɪs] - моеОбещание
+completed [kəmˈpliːtɪd] - завершено
+reject [rɪˈʤɛkt] - отклонить
+catch [kæʧ] - перехватить
+resolve [rɪˈzɒlv] - разрешить
+then [ðɛn] - затем
+complex [kəmˈplɛks] - сложный
+looks [lʊks] - выглядит
+delayedResult [dɪˈleɪdɪd rɪˈzʌlt] - отсроченныйРезультат
+execAsyncFunc [ɪɡˈzɛk əˈsɪŋk fʌŋk] - выполнитьАсинхроннуюФункцию
+IIFE [aɪfaɪ] - немедленно вызываемая функция
+successfully [səkˈsɛsfəli] - успешно
+that [ðæt] - что
+Because [bɪˈkɔːz] - Потому что
+fetch [fɛʧ] - получение
+response [rɪˈspɒns] - ответ
+execute [ˈɛksɪˌkjuːt] - выполнить
+awaiting [əˈweɪtɪŋ] - ожидание
+SPAs [spæz] - Одностраничные приложения
+CGI [ˌsiːʤiːˈaɪ] - Общий шлюз интерфейса
+SSR [ˌɛs es ˈɑːr] - Серверный рендеринг на стороне сервера
+Enter [ˈɛntər] - Войти
+DOM [dɒm] - Объектная модель документа
+npx [ɛn piː ɛks] - пакетный менеджер NPX
+build [bɪld] - сборка
+git [ɡɪt] - гит
+dependencies [dɪˈpɛndənsiz] - зависимости
+devDependencies [dɛv dɪˈpɛndənsiz] - зависимости разработки
+start [stɑːrt] - запуск
+eject [ɪˈʤɛkt] - извлечь
+import [ˈɪmpɔːrt] - импортировать
+React [riːˈækt] - Реакт
+from [frəm] - из
+ReactDOM [ˌriːˈækt ˌdɒm] - РеактДОМ
+App [æp] - приложение
+as [æz] - как
+serviceWorker [ˈsɜːrvɪs ˈwɜːrkər] - сервисныйРаботник
+If [ɪf] - если
+you [juː] - вы
+want [wɒnt] - хотите
+your [jɔːr] - ваше
+app [æp] - приложение
+work [wɜːrk] - работать
+offline [ˈɔːflaɪn] - в автономном режиме
+load [loʊd] - загрузка
+can [kæn] - могут
+change [ʧeɪndʒ] - изменить
+Note [noʊt] - примечание
+comes [kʌmz] - приходит
+with [wɪð] - с
+Learn [lɜːrn] - узнать
+more [mɔːr] - больше
+about [əˈbaʊt] - о
+service [ˈsɜːrvɪs] - сервис
+core [kɔːr] - ядро
+componentWillMount [kəmˈwaɪl mənt ˈwɪl] - componentWillMount
+componentWillReceiveProps [kəmˌwil ˌriːsˈɪvˌprɒps] - componentWillReceiveProps
+componentWillUpdate [kəmˌwil ˌʌpˈdeɪt] - componentWillUpdate
+findDOMNode [faɪnd doʊm ˈnoʊd] - найтиЭлементDOM
+Launch [lɔːnʧ] - Запуск
+Connect [kəˈnɛkt] - Подключение
+ubuntu [ʊˈbʊntuː] - убунту (Linux дистрибутив)
+DNS [diː ɛn ɛs] - ДНС (доменная система имён)
+apt [æpt] - менеджер пакетов APT (Advanced Package Tool)
+update [ʌpˈdeɪt] - обновить
+Apt [æpt] - APT (Advanced Package Tool)
+supervised [ˈsuːpərˌvaɪzd] - надзираемый
+systemd [ˈsɪstɛmd] - systemd (системный менеджер и инициализации)
+systemctl [ˈsɪstɛmˌkəntl] - systemctl (утилита управления службами systemd)
+restart [riːˈstɑːrt] - перезапуск
+stop [stɒp] - остановка
+status [ˈsteɪtəs] - статус
+postgresql [ˌpoʊstˈɡrɛs kjuː ˈɛl] - PostgreSQL (реляционная система управления базами данных)
+psql [ˈpiːˈskwɛl] - интерактивный интерфейс командной строки для PostgreSQL
+createuser [kriːˈeɪt ˈjuːzər] - создать пользователя
+createdb [kriːˈeɪtɪdˌdiːˈbiː] - создать базу данных
+nodejs [noʊd ʤɛs] - ноде.джс (среда выполнения JavaScript на сервере)
+bash [bæʃ] - командная оболочка Bash
+nginx [ˌɛnˈdʒɪnˌɛks] - NGINX (веб-сервер и обратный прокси-сервер)
+dist [dɪst] - дистрибутив
+delete [dɪˈliːt] - удалить
+loadEnv [loʊd ˈɛnv] - загрузить переменные окружения
+synchronize [ˈsɪŋkrəˌnaɪz] - синхронизировать
+scp [ɛsk siː piː] - scp (команда для копирования файлов через SSH)
+pem [pɛm] - PEM (формат файла с закрытым ключом)
+pscp [piː ɛsk siː piː] - pscp (команда для копирования файлов через SSH для Windows)
+chmod [ʧɑːd ˈmɒd] - chmod (команда для изменения прав доступа к файлам)
+startup [ˈstɑːrtˌʌp] - запуск
+Systemd [ˈsɪstɛmd] - systemd (системный менеджер и инициализации)
+dev [dɛv] - разработка
+ufw [juː ɛf ˈdʌbljuː] - ufw (утилита для настройки файрвола)
+No repository was found [noʊ rɪˈpɒzəˌtɔːri wəz faʊnd] - Репозиторий не найден
+Gateway Timeout [ˈɡeɪtweɪ ˈtaɪmaʊt] - Превышено время ожидания шлюза
+think [θɪŋk] - думать
+it [ɪt] - это
+is [ɪz] - это
+okay [ˌoʊˈkeɪ] - в порядке
+There [ðɛr] - Там
+could [kʊd] - могло бы
+be [biː] - быть
+various [ˈvɛriəs] - разные
+reasons [ˈriːzənz] - причины
+why [waɪ] - почему
+a [ə] - один
+repository [rɪˈpɒzəˌtɔːri] - репозиторий
+might [maɪt] - мог бы
+not [nɒt] - не
+be [biː] - быть
+found [faʊnd] - найденным
+or [ɔːr] - или
+accessible [əkˈsɛsəbl] - доступным
+Gateway Timeout [ˈɡeɪtweɪ ˈtaɪmaʊt] - Превышено время ожидания шлюза
+feel [fiːl] - чувствовать
+free [friː] - свободным
+to [tuː] - к
+ask [æsk] - спрашивать
+if [ɪf] - если
+you [juː] - вы
+need [niːd] - нуждаетесь
+any [ˈɛni] - какие-либо
+further [ˈfɜːrðər] - дальнейшие
+assistance [əˈsɪstəns] - помощь
+Thank you [θæŋk juː] - Спасибо
+There [ðɛr] - Там
+could [kʊd] - могло бы
+be [biː] - быть
+various [ˈvɛriəs] - разные
+reasons [ˈriːzənz] - причины
+why [waɪ] - почему
+a [ə] - один
+repository [rɪˈpɒzəˌtɔːri] - репозиторий
+might [maɪt] - мог бы
+not [nɒt] - не
+be [biː] - быть
+found [faʊnd] - найденным
+or [ɔːr] - или
+accessible [əkˈsɛsəbl] - доступным
+SendMessage [ˌsɛnd ˈmɛsɪdʒ] - Отправить сообщение
+to [tuː] - к
+the [ðə] - тому
+user [ˈjuːzər] - пользователю
+GetUser [ɡɛt ˈjuːzər] - Получить пользователя
+query [ˈkwɪri] - запрос
+email [ˈiːmeɪl] - электронная почта
+desired [dɪˈzaɪərd] - желаемый
+userId [ˈjuːzərˌaɪd] - идентификатор пользователя
+mocks [mɑːks] - имитирует
+queryResponse [ˈkwɪri rɪˈspɒns] - ответ на запрос
+spec [spɛk] - спецификация
+testRegex [tɛst ˈriːdʒɛks] - регулярное выражение для теста
+transform [trænsˈfɔrm] - трансформировать
+bcryptjs [ˈbkrɪpt dʒəz] - bcryptjs (библиотека для хеширования паролей)
+CORS [kɔrs] - CORS (политика безопасности для обмена данными между разными источниками)
+dotenv [ˈdɒtˌɛnv] - dotenv (модуль для загрузки переменных окружения из файла .env)
+nodemailer [ˈnoʊdˌmeɪlər] - nodemailer (модуль для отправки электронной почты)
+request [rɪˈkwɛst] - запрос
+querystring [ˈkwɪriˌstrɪŋ] - querystring (модуль для разбора и создания URL-кодированных данных)
+randomstring [ˈrændəmˌstrɪŋ] - randomstring (модуль для генерации случайных строк)
+application [ˌæplɪˈkeɪʃən] - приложение
+Security [sɪˈkjʊrɪti] - Безопасность
+An [ən] - Один
+ORM [ɔːrm] - ORM (объектно-реляционное отображение)
+Categories [ˈkætəɡɔːriz] - Категории
+threads [θrɛdz] - ветви
+UserProfile [ˈjuːzər ˈproʊˌfaɪl] - Профиль пользователя
+TIP [tɪp] - Совет
+Bootstrap [ˈbuːtˌstræp] - Bootstrap (фреймворк для разработки веб-интерфейсов)
+Ionic [aɪˈɒnɪk] - Ionic (фреймворк для разработки мобильных приложений)
+Grid [ɡrɪd] - Сетка
+nav [næv] - навигация
+leftmenu [lɛft ˈmɛnjuː] - левое меню
+content [ˈkɒntɛnt] - контент
+display [dɪsˈpleɪ] - отображение
+grid [ɡrɪd] - сетка
+fr [ɛf ɑːr] - со
+gap [ɡæp] - зазор
+sidebar [ˈsaɪdˌbɑːr] - боковая панель
+rightmenu [raɪt ˈmɛnjuː] - правое меню
+folder [ˈfoʊldər] - папка
+components [kəmˈpoʊnənts] - компоненты
+updated [ʌpˈdeɪtɪd] - обновленный
+Main [meɪn] - Главный
+Nav [næv] - Навигация
+SideBar [saɪdˈbɑːr] - Боковая панель
+LeftMenu [lɛft ˈmɛnjuː] - Левое меню
+RightMenu [raɪt ˈmɛnjuː] - Правое меню
+screen [skriːn] - экран
+orientation [ˌɔːriənˈteɪʃən] - ориентация
+portrait [ˈpɔːrtrɪt] - портрет
+mode [moʊd] - режим
+hooks [hʊks] - хуки
+WindowDimension [ˈwɪndoʊ dɪˈmɛnʃən] - WindowDimension (размеры окна)
+useWindowDimensions [juz ˈwɪndoʊ dɪˈmɛnʃənz] - useWindowDimensions (хук для получения размеров окна)
+dimension [dɪˈmɛnʃən] - размер
+height [haɪt] - высота
+width [wɪdθ] - ширина
+handleResize [ˈhændl riːˈzaɪz] - обработчик изменения размера
+setDimension [sɛt dɪˈmɛnʃən] - установить размер
+resize [riːˈzaɪz] - изменять размер
+UserProfileReducer [ˈjuːzər proʊˌfaɪl rɪˈdjuːsər] - UserProfileReducer (редюсер профиля пользователя)
+getDerivedStateFromError [ɡɛt dɪˈvaɪvd steɪt frəm ˈerər] - getDerivedStateFromError (статический метод для обработки ошибок)
+componentDidCatch [kəmˈpoʊnənt dɪd kætʃ] - componentDidCatch (метод для обработки ошибок)
+ErrorBoundaryProps [ˈɛrər ˈbaʊndəri prɒps] - ErrorBoundaryProps (свойства компонента ErrorBoundary)
+ErrorBoundaryState [ˈɛrər ˈbaʊndəri steɪt] - ErrorBoundaryState (состояние компонента ErrorBoundary)
+ErrorBoundary [ˈɛrər ˈbaʊndəri] - ErrorBoundary (компонент для обработки ошибок)
+hasError [hæz ˈɛrər] - есть ошибка
+On [ɒn] - При
+WARNING [ˈwɔrnɪŋ] - Предупреждение
+try [traɪ] - попробовать
+Error [ˈɛrər] - Ошибка
+x [ɛks] - x
+services [ˈsɜːrvɪsɪz] - сервисы
+inside [ɪnˈsaɪd] - внутри
+Category [ˈkætəɡɔːri] - Категория
+model [ˈmɒdl] - модель
+categories [ˈkætəɡɔːriz] - категории
+Left [lɛft] - Левый
+Menu [ˈmɛnjuː] - Меню
+getCategories [ɡɛt ˈkætəɡɔːriz] - получить категории
+DataService [ˈdeɪtə ˈsɜːrvɪs] - DataService (сервис для получения данных)
+UserProfileSetType [ˈjuːzər ˈproʊˌfaɪl sɛt taɪp] - UserProfileSetType (тип для установки профиля пользователя)
+UserProfilePayload [ˈjuːzər ˈproʊˌfaɪl ˈpeɪloʊd] - UserProfilePayload (полезная нагрузка профиля пользователя)
+UserProfileAction [ˈjuːzər ˈproʊˌfaɪl ˈækʃən] - UserProfileAction (действие профиля пользователя)
+SideBarMenus [saɪdˈbɑːr ˈmɛnjuːz] - SideBarMenus (меню боковой панели)
+FontAwesome [ˌfɒntˈɑːwəsəm] - FontAwesome (библиотека значков)
+ul [juː ɛl] - ul
+none [nʌn] - ничего
+userName [ˈjuːzər neɪm] - имя пользователя
+getMobileMenu [ɡɛt ˈmoʊbaɪl ˈmɛnjuː] - получить мобильное меню
+left [lɛft] - лево
+right [raɪt] - право
+top [tɒp] - верх
+showMenu [ʃoʊ ˈmɛnjuː] - показать меню
+onClickToggle [ɒn ˈklɪk ˈtɒɡəl] - при щелчке переключения
+FontAwesomeIcon [ˌfɒntˈɑːwəsəm ˈaɪˌkɒn] - FontAwesomeIcon (компонент иконки FontAwesome)
+ReactModal [ˌriːˈækt ˈmɒdəl] - ReactModal (компонент модального окна React)
+onRequestClose [ɒn rɪˈkwɛst kloʊz] - при закрытии запроса
+shouldCloseOnOverlayClick [ʃʊd kloʊz ɒn ˈoʊvərˌleɪ kliːk] - должно закрываться при щелчке по оверлею
+isOpen [ˈoʊpən] - открыт
+As [æz] - Как
+appropriate [əˈproʊpriət] - соответствующий
+imports [ˈɪmˌpɔːrts] - импорты
+validator [ˈvælɪˌdeɪtər] - валидатор
+common [ˈkɒmən] - общий
+validators [ˈvælɪˌdeɪtərz] - валидаторы
+strongPassword [strɒŋ ˈpæsˌwɜːrd] - надежный пароль
+must [mʌst] - должен
+contain [kənˈteɪn] - содержать
+least [liːst] - по крайней мере
+special [ˈspɛʃəl] - специальный
+cap [kæp] - заглавная буква
+auth [ɔːθ] - аутентификация
+Registration [ˌrɛdʒɪˈstreɪʃən] - Регистрация
+userReducer [ˈjuːzər rɪˈdjuːsər] - userReducer (редюсер пользователя)
+switch [swɪtʃ] - переключатель
+RegistrationProps [ˌrɛdʒɪˈstreɪʃən prɒps] - RegistrationProps (свойства компонента регистрации)
+resultMsg [rɪˈzʌlt mɛsɪdʒ] - сообщение о результате
+isRegisterDisabled [ɪz ˈrɛdʒɪstər dɪsˈeɪbl̩d] - регистрация отключена
+allowRegister [əˈlaʊ ˈrɛdʒɪstər] - разрешить регистрацию
+onChangeUserName [ɒn ˈʧeɪndʒ ˈjuːzər neɪm] - при изменении имени пользователя
+cannot [ˈkænɒt] - нельзя
+be [biː] - быть
+onChangeEmail [ɒn ˈʧeɪndʒ ˈiːmeɪl] - при изменении электронной почты
+onChangePassword [ɒn ˈʧeɪndʒ ˈpæsˌwɜːrd] - при изменении пароля
+PasswordTestResult [ˈpæsˌwɜːrd tɛst ˈrɪzʌlt] - результат теста пароля
+onChangePasswordConfirm [ɒn ˈʧeɪndʒ ˈpæsˌwɜːrd kənˈfɜrm] - при изменении подтверждения пароля
+onChangedPasswordConfirm [ɒn ˈʧeɪndʒd ˈpæsˌwɜːrd kənˈfɜrm] - при изменении подтверждения пароля
+passwordConfirm [ˈpæsˌwɜːrd kənˈfɜrm] - подтверждение пароля
+passwordsSame [ˈpæsˌwɜːrdz seɪm] - пароли совпадают
+do [duː] - выполнить
+onClickRegister [ɒn ˈklɪk ˈrɛdʒɪstər] - при щелчке по кнопке "Зарегистрироваться"
+onClickCancel [ɒn ˈklɪk ˈkænsəl] - при щелчке по кнопке "Отмена"
+preventDefault [prɪˈvɛnt dɪˈfɔːlt] - предотвратить стандартное действие
+Register [ˈrɛdʒɪstər] - Зарегистрировать
+Close [kloʊz] - Закрыть
+Login [ˈlɒɡɪn] - Войти
+Logout [ˈlaʊɡaʊt] - Выйти
+types [taɪps] - типы
+ModalProps [ˈmoʊdəl prɒps] - ModalProps (свойства модального окна)
+replace [rɪˈpleɪs] - заменить
+isSubmitDisabled [ɪz səbˈmɪt dɪsˈeɪbl̩d] - отправка отключена
+destructured [dɪsˈtrʌktʃərd] - деструктурированный
+Dispatch [dɪsˈpætʃ] - Диспетчер
+allowSubmit [əˈlaʊ səbˈmɪt] - разрешить отправку
+setDisabled [sɛt dɪsˈeɪbl̩d] - установить отключение
+onClick [ɒn ˈklɪk] - при щелчке
+Since [sɪns] - Поскольку
+areas [ˈɛriəz] - области
+main [meɪn] - главная
+MainHeader [meɪn ˈhɛdər] - MainHeader (главный заголовок)
+renderHome [ˈrɛndər hoʊm] - отобразить домашнюю страницу
+categorythreads [ˈkætəɡɔːri θrɛdz] - категории и темы
+note [noʊt] - заметка
+rename [riːˈneɪm] - переименовать
+routes [ruːts] - маршруты
+container [kənˈteɪnər] - контейнер
+Thread [θrɛd] - Тема
+ThreadItem [θrɛd ˈaɪtəm] - ThreadItem (элемент темы)
+models [ˈmɒdəlz] - модели
+points [pɔɪnts] - баллы
+faReplyAll [fa ˈriːˌplaɪ ɔːl] - faReplyAll (иконка "Ответить всем" из FontAwesome)
+Link [lɪŋk] - Ссылка
+ThreadCardProps [θrɛd kɑːrd prɒps] - ThreadCardProps (свойства компонента ThreadCard)
+ThreadCard [θrɛd kɑːrd] - ThreadCard (карточка темы)
+thread [θrɛd] - тема
+onClickShowThread [ɒn ˈklɪk ʃoʊ θrɛd] - при щелчке для отображения темы
+pushing [ˈpʊʃɪŋ] - добавление
+getPoints [ɡɛt pɔɪnts] - получить баллы
+getResponses [ɡɛt rɪˈspɒnsɪz] - получить ответы
+ThreadItems [θrɛd ˈaɪtəmz] - элементы темы
+getPointsNonMobile [ɡɛt pɔɪnts nɒn ˈmoʊbaɪl] - получить баллы на десктопе
+key [kiː] - ключ
+categoryId [ˌkætəˈɡɔːri ˈaɪdiː] - идентификатор категории
+flex [flɛks] - гибкий
+solid [ˈsɒlɪd] - сплошной
+category [ˈkætəˌɡɔːri] - категория
+ThreadCards [θrɛd kɑːrdz] - карточки тем
+threadCards [θrɛd kɑːrdz] - карточки тем
+runs [rʌnz] - выполняется
+rightMenu [raɪt ˈmɛnjuː] - правое меню
+CategoryThread [ˈkætəˌɡɔːri θrɛd] - CategoryThread (тема категории)
+lodash [ˈloʊdæʃ] - lodash (библиотека JavaScript)
+groupBy [ɡruːp baɪ] - группировать по
+TopCategory [tɒp ˈkætəˌɡɔːri] - TopCategory (верхняя категория)
+topCategories [tɒp ˈkætəˌɡɔːriz] - верхние категории
+getTopCategories [ɡɛt tɒp ˈkætəˌɡɔːriz] - получить верхние категории
+TopCategoryProps [tɒp ˈkætəˌɡɔːri prɒps] - TopCategoryProps (свойства верхней категории)
+strong [strɒŋ] - сильный
+individual [ˌɪndɪˈvɪdʒuəl] - индивидуальный
+getTimePastIfLessThanDay [ɡɛt taɪm pæst ɪf lɛs ðæn deɪ] - получить прошедшее время, если менее одного дня
+ThreadHeader [θrɛd ˈhɛdər] - ThreadHeader (заголовок темы)
+lastModifiedOn [læst ˈmɒdɪˌfaɪd ɒn] - последнее изменение
+ThreadModel [θrɛd ˈmɒdəl] - ThreadModel (модель темы)
+In [ɪn] - В
+renderThread [ˈrɛndər θrɛd] - отобразить тему
+select [səˈlɛkt] - выбрать
+Install [ɪnˈstɔːl] - Установить
+ThreadCategoryProps [θrɛd ˈkætəˌɡɔːri prɒps] - ThreadCategoryProps (свойства компонента ThreadCategory)
+ThreadCategory [θrɛd ˈkætəˌɡɔːri] - ThreadCategory (категория темы)
+catOptions [kæt ˈɒpʃənz] - варианты категорий
+DropDown [drɒp daʊn] - выпадающий список
+Title [taɪtl] - Заголовок
+ThreadTitle [θrɛd taɪtl] - ThreadTitle (заголовок темы)
+onChangeTitle [ɒn ˈʧeɪndʒ ˈtaɪtl] - при изменении заголовка
+This [ðɪs] - Этот
+slate [sleɪt] - slate (библиотека для редактирования текста)
+emotion [ɪˈmoʊʃən] - emotion (библиотека эмоций)
+editor [ˈɛdɪtər] - редактор
+isHotKey [ɪz hɒt kiː] - является горячей клавишей
+withHistory [wɪð ˈhɪsˌtɔːri] - с историей
+Button [ˈbʌtn] - Кнопка
+Toolbar [ˈtuːlbɑːr] - Панель инструментов
+RichTextControls [rɪʧ tɛkst kənˈtroʊlz] - RichTextControls (управление форматированным текстом)
+HOTKEYS [hɒt kiːz] - HOTKEYS (горячие клавиши)
+initialValue [ɪˈnɪʃəl ˌvæljuː] - начальное значение
+RichEditor [rɪʧ ˈɛdɪtər] - RichEditor (расширенный редактор)
+renderElement [ˈrɛndər ˈɛlɪmənt] - отобразить элемент
+Element [ˈɛlɪmənt] - Элемент
+renderLeaf [ˈrɛndər lif] - отобразить лист
+Leaf [lif] - Лист
+Slate [sleɪt] - Slate (библиотека для редактирования текста)
+Editable [ˈɛdɪtəbl̩] - редактируемый
+existingBody [ɪɡˈzɪstɪŋ ˈbɒdi] - существующее тело
+onChangeEditorValue [ɒn ˈʧeɪndʒ ˈɛdɪtər ˈvæljuː] - при изменении значения редактора
+MarkButton [mɑrk ˈbʌtn] - MarkButton (кнопка выделения текста)
+BlockButton [blɒk ˈbʌtn] - BlockButton (кнопка для блочных элементов)
+isMarkActive [ɪz mɑrk ˈæktɪv] - выделение активно
+toggleMark [ˈtɒɡəl mɑrk] - переключить выделение
+Nodes [noʊdz] - узлы
+isBlockActive [ɪz blɒk ˈæktɪv] - блочный элемент активен
+ToggleBlock [ˈtoʊɡəl blɒk] - переключатель блочных элементов
+Leafs [lifs] - листья
+ThreadBody [θrɛd ˈbɒdi] - ThreadBody (тело темы)
+ThreadResponse [θrɛd rɪˈspɒns] - ThreadResponse (ответ темы)
+UserNameAndTime [ˈjuːzər neɪm ənd taɪm] - UserNameAndTime (имя пользователя и время)
+ThreadResponseProps [θrɛd rɪˈspɒns prɒps] - ThreadResponseProps (свойства ответа темы)
+ThreadResponsesBuilderProps [θrɛd rɪˈspɒnsɪz ˈbɪldər prɒps] - ThreadResponsesBuilderProps (свойства построителя ответов темы)
+responseElements [rɪˈspɒns ˈɛlɪmənts] - элементы ответа
+threadItems [θrɛd ˈaɪtəmz] - элементы темы
+ThreadResponses [θrɛd rɪˈspɒnsɪz] - ThreadResponses (ответы темы)
+TheadResponse [ˈθrɛd rɪˈspɒns] - TheadResponse (ответ темы)
+ThreadResponsesBuilder [θrɛd rɪˈspɒnsɪz ˈbɪldər] - ThreadResponsesBuilder (построитель ответов темы)
+hr [eɪʧ ɑːr] - горизонтальная линия
+ThreadPointsBarProps [θrɛd pɔɪnts bɑːr prɒps] - ThreadPointsBarProps (свойства панели баллов темы)
+ThreadPointsBar [θrɛd pɔɪnts bɑːr] - ThreadPointsBar (панель баллов темы)
+auto [ˈɔːtoʊ] - авто
+createdOn [kriˈeɪtɪd ɒn] - создано
+ThreadPointsInline [θrɛd pɔɪnts ɪnˈlaɪn] - ThreadPointsInline (встроенные баллы темы)
+single [ˈsɪŋɡəl] - одиночный
+SideBarMenu [saɪd ˈbɑːr ˈmɛnjuː] - SideBarMenu (боковое меню)
+userProfile [ˈjuːzər proʊˌfaɪl] - профиль пользователя
+getUserThreads [ˈɡɛt juːzər θriːdz] - получить темы пользователя
+ThreadId [θrɛd aɪːˈdiː] - идентификатор темы
+PasswordComparison [ˈpæsˌwɜːrd kəmˈpærɪsn] - сравнение паролей
+though [ðoʊ] - хотя
+renderUserProfile [ˈrɛndər ˈjuːzər proʊˌfaɪl] - отобразить профиль пользователя
+Download [daʊnˈloʊd] - Скачать
+make [meɪk] - создать
+Applications [ˌæplɪˈkeɪʃənz] - приложения
+ping [pɪŋ] - пинговать
+shutdown [ˈʃʌtˌdaʊn] - выключить
+mkdir [ˈmækˌdɪr] - создать директорию
+nano [ˈnænoʊ] - nano (текстовый редактор)
+requirepass [ˌriːˌkwaɪr ˈpæs] - требование пароля
+Ctrl [kɒnˈtrəʊl] - Ctrl (клавиша "Control")
+W [ˈdʌbljuː] - W (буква "W")
+Configuration [kənˌfɪɡjəˈreɪʃən] - Конфигурация
+loaded [ˈloʊdɪd] - загружена
+author [ˈɔːθər] - автор
+ioredis [aɪˌoʊˈriːdɪs] - ioredis (клиент для Redis)
+respawn [riˈspɔːn] - перезапуск
+target [ˈtɑːrɡɪt] - цель
+SET [sɛt] - SET (команда Redis для установки значения)
+ready [ˈrɛdi] - готов
+session [ˈsɛʃən] - сессия
+connectRedis [kəˈnɛktˌriːdɪs] - подключиться к Redis
+redis [ˈrɛdɪs] - Redis (система управления базами данных)
+RedisStore [ˈrɛdɪs stɔːr] - RedisStore (хранилище Redis)
+redisStore [ˈrɛdɪs stɔːr] - хранилище Redis
+sameSite [seɪm saɪt] - sameSite (свойство для управления отправкой кук на сервер)
+secret [ˈsiːkrɪt] - секретный
+cookie [ˈkʊki] - куки
+httpOnly [ˌheɪtʃˈpiːˈoʊnli] - httpOnly (свойство для управления доступом к кукам из JavaScript)
+secure [sɪˈkjʊr] - безопасный
+pgAdmin [piːdʒiː ˈædmɪn] - pgAdmin (графический интерфейс для управления PostgreSQL)
+HandsOnFullStackGroup [hændz ɒn fʊl stæk ɡruːp] - HandsOnFullStackGroup (название группы)
+Servers [ˈsɜːrvərz] - Серверы
+Server [ˈsɜːrvər] - Сервер
+SuperForumServers [ˈsuːpər ˈfɔːrəm ˈsɜːrvərz] - SuperForumServers (серверы SuperForum)
+Connection [kəˈnɛkʃən] - Соединение
+localhost [ˈloʊkəlˌhoʊst] - localhost (локальный хост)
+postgres [ˈpoʊstɡrɛs] - PostgreSQL (система управления базами данных)
+Save [seɪv] - Сохранить
+Create [kriːˈeɪt] - Создать
+General [ˈdʒɛnərəl] - Общий
+superforumsvc [ˈsuːpərˌfɔːrəmsv̩] - superforumsvc (суперфорумский сервис)
+Definition [ˌdɛfɪˈnɪʃən] - Определение
+Privileges [ˈpraɪvəlɪʤɪz] - Привилегии
+Databases [ˈdætəˌbeɪsɪz] - Базы данных
+Database [ˈdætəbeɪs] - База данных
+SuperForum [ˈsuːpərˌfɔːrəm] - SuperForum (суперфорум)
+Owner [ˈoʊnər] - Владелец
+knows [noʊz] - знает
+Users [ˈjuːzərz] - Пользователи
+typeorm [ˈtaɪpɔːrm] - typeorm (библиотека для работы с базами данных в TypeScript)
+pg [piːdʒ] - pg (библиотека для работы с PostgreSQL в Node.js)
+repo [ˈriːpoʊ] - репозиторий
+Column [ˈkɒləm] - Колонка
+Entity [ˈɛntɪti] - Сущность
+PrimaryGeneratedColumn [ˈpraɪˌmɛri ˈʤɛnəˌreɪtɪd ˈkɒləm] - PrimaryGeneratedColumn (первичный автоматически генерируемый столбец)
+Length [lɛŋθ] - Длина
+Email [ˈiːmeɪl] - Электронная почта
+varchar [ˈvɑːrkɑːr] - varchar (тип данных для хранения символьных строк переменной длины)
+unique [juːˈniːk] - уникальный
+attribute [ˈætrɪˌbjuːt] - атрибут
+nullable [ˈnʌləbl̩] - может быть пустым
+password [ˈpæsˌwɜːrd] - пароль
+confirmed [kənˈfɜːrmd] - подтвержденный
+isDisabled [ɪz dɪsˈeɪbl̩d] - отключен
+createConnection [kriːˈeɪt kəˈnɛkʃən] - создать соединение
+Tables [ˈteɪblz] - Таблицы
+Id [aɪd] - Идентификатор
+Refresh [riˈfrɛʃ] - Обновить
+Threads [θriːdz] - Темы
+OneToMany [ˌwʌn tuː ˈmæni] - OneToMany (отношение "один ко многим" в базах данных)
+ManyToOne [ˈmɛni tuː ˈwʌn] - ManyToOne (отношение "многие к одному" в базах данных)
+owning [ˈoʊnɪŋ] - владеющий
+threadId [ˈθrɛd ˌaɪdiː] - идентификатор темы
+CREATE TABLE [kriːˈeɪt ˈteɪbl] - CREATE TABLE (создание таблицы)
+ThreadPoints [θrɛd pɔɪnts] - ThreadPoints (баллы темы)
+ThreadItemPoints [θrɛd ˈaɪtəm pɔɪnts] - ThreadItemPoints (баллы элемента темы)
+ThreadPoint [θrɛd pɔɪnt] - ThreadPoint (балл темы)
+isDecrement [ɪz ˈdiːkrɪˌmɛnt] - уменьшение
+ThreadItemPoint [θrɛd ˈaɪtəm pɔɪnt] - ThreadItemPoint (балл элемента темы)
+BaseEntity [ˈbeɪsˌɛntɪti] - BaseEntity (базовая сущность)
+Auditable [ˈɔːdɪtəbl̩] - Auditable (аудируемый)
+columns [ˈkɒləmz] - столбцы
+insert [ɪnˈsɜːrt] - вставить
+audit [ˈɔːdɪt] - аудит
+UPDATE [ʌpˈdeɪt] - UPDATE (команда для обновления записей в базе данных)
+UserAgent [ˈjuːzər ˈeɪdʒənt] - UserAgent (агент пользователя)
+Address [ˈædrɛs] - Адрес
+Device [dɪˈvaɪs] - Устройство
+isMobile [ɪz ˈmoʊbaɪl] - мобильное устройство
+Role [roʊl] - Роль
+BeforeInsert [bɪˈfɔːr ɪnˈsɜːrt] - BeforeInsert (событие перед вставкой)
+BeforeUpdate [bɪˈfɔːr ʌpˈdeɪt] - BeforeUpdate (событие перед обновлением)
+threadRepository [θrɛd rɪˈpɒzɪtɔːri] - репозиторий темы
+increment [ˈɪnkrəmənt] - увеличение
+isDeleted [ɪz dɪˈliːtɪd] - удалено
+soft [sɔft] - мягкое
+delete [dɪˈliːt] - удалить
+SoftDelete [sɔft dɪˈliːt] - SoftDelete (мягкое удаление)
+BeforeDelete [bɪˈfɔːr dɪˈliːt] - BeforeDelete (событие перед удалением)
+DeleteDateColumn [dɪˈliːt deɪt ˈkɒləm] - DeleteDateColumn (столбец для хранения даты удаления)
+getCustomRepository [ɡɛt ˈkʌstəm rɪˈpɒzɪtɔːri] - получить пользовательский репозиторий
+RelationId [rɪˈleɪʃən ˈaɪd] - RelationId (идентификатор отношения)
+findOne [ˈfɪnd wʌn] - найти одну запись
+queryBuilder [ˈkwɪri ˈbɪldər] - конструктор запросов
+expression [ɪkˈsprɛʃən] - выражение
+selectInRelatedIds [səˈlɛkt ɪn rɪˈleɪtɪd ˈaɪdz] - выбрать в связанных идентификаторах
+count [kaʊnt] - количество
+where [wɛr] - условие
+Like [laɪk] - Like (оператор сравнения в SQL)
+getManyAndCount [ɡɛt ˈmɛni ənd kaʊnt] - получить множество и количество
+leftJoin [lɛft ʤɔɪn] - левое объединение
+withDeleted [wɪð ˈdiːliːtɪd] - с удаленными
+whereInIds [wɛr ɪn aɪdz] - в идентификаторах
+build [bɪld] - построить
+threads [θriːdz] - темы
+Module [ˈmɒdjuːl] - Модуль
+moduleName [ˈmɒdjuːl neɪm] - имя модуля
+TypeOrmModule [taɪp ɔrm ˈmɒdjuːl] - TypeOrmModule (модуль TypeORM)
+ConfigModule [ˈkɒnˌfɪɡ ˈmɒdjuːl] - ConfigModule (модуль конфигурации)
+type [taɪp] - тип
+ApiConfig [ˈeɪpi kənˈfɪɡ] - ApiConfig (конфигурация API)
+ApiConfigService [ˈeɪpi kənˈfɪɡ ˈsɜːrvɪs] - ApiConfigService (сервис конфигурации API)
+IsMobileInterceptor [ɪz ˈmoʊbaɪl ɪntərˈsɛptər] - IsMobileInterceptor (перехватчик для мобильных устройств)
+INTERCEPTOR_METADATA [ɪntərˈsɛptər mɛtəˈdeɪtə] - INTERCEPTOR_METADATA (метаданные перехватчика)
+isMobileDevice [ɪz ˈmoʊbaɪl dɪˈvaɪs] - мобильное устройство
+Notice [ˈnoʊtɪs] - Уведомление
+ng [ˌɛn ˈdʒiː] - Angular (фреймворк для разработки веб-приложений)
+admin [ˈædmɪn] - администратор
+ngClass [ˌɛn ˈdʒiː klæs] - ngClass (директива Angular для применения классов)
+ngIf [ˌɛn ˈdʒiː ɪf] - ngIf (директива Angular для условного отображения)
+ngFor [ˌɛn ˈdʒiː fɔːr] - ngFor (директива Angular для цикла)
+ngSwitch [ˌɛn ˈdʒiː swɪʧ] - ngSwitch (директива Angular для переключения)
+ngStyle [ˌɛn ˈdʒiː staɪl] - ngStyle (директива Angular для применения стилей)
+ngModel [ˌɛn ˈdʒiː ˈmɒdəl] - ngModel (директива Angular для создания двусторонней привязки)
+ngForm [ˌɛn ˈdʒiː fɔːrm] - ngForm (директива Angular для работы с формами)
+RouterModule [roʊt ˈmɒdjuːl] - RouterModule (модуль маршрутизации в Angular)
+Router [ˈruːtər] - Роутер
+ActivatedRoute [ˈæktɪˌveɪtɪd ˈækt] - ActivatedRoute (сервис Angular для доступа к активному маршруту)
+FormsModule [ˈfɔːrm ˈmɒdjuːl] - FormsModule (модуль для работы с формами в Angular)
+onChangePasswordConfirm [ɒn ˈʧeɪndʒ ˈpæsˌwɜːrd kənˈfɜːrm] - при изменении подтверждения пароля
+onChangedPasswordConfirm [ɒnˈʧeɪndʒd ˈpæsˌwɜːrd kənˈfɜːrm] - при изменении подтверждения пароля
+passwordConfirm [ˈpæsˌwɜːrd kənˈfɜːrm] - подтверждение пароля
+passwordsSame [ˈpæsˌwɜːrdz seɪm] - пароли совпадают
+do [duː] - делать
+onClickRegister [ɒn ˈklɪk ˈrɛdʒɪstər] - при щелчке по регистрации
+onClickCancel [ɒn ˈklɪk ˈkænsəl] - при щелчке по отмене
+preventDefault [prɪˈvɛnt dɪˈfɔːlt] - предотвратить стандартное действие
+Register [ˈrɛdʒɪstər] - Регистрация
+Close [kloʊz] - Закрыть
+Login [ˈlɒɡɪn] - Вход
+Logout [ˈlaʊɡaʊt] - Выход
+types [taɪps] - типы
+ModalProps [ˈmoʊdəl prɒps] - ModalProps (свойства модального окна)
+replace [rɪˈpleɪs] - заменить
+isSubmitDisabled [ɪz səbˈmɪt dɪsˈeɪbl̩d] - отправка отключена
+destructured [diːˈstrʌktʃərd] - деструктурированный
+Dispatch [dɪsˈpætʃ] - Диспетчер
+allowSubmit [əˈlaʊ səbˈmɪt] - разрешить отправку
+setDisabled [sɛt dɪsˈeɪbl̩d] - установить отключение
+onClick [ɒn ˈklɪk] - при щелчке
+Since [sɪns] - Поскольку
+areas [ˈɛəriəz] - области
+main [meɪn] - основной
+MainHeader [meɪn ˈhɛdər] - MainHeader (основная шапка)
+renderHome [ˈrɛndər hoʊm] - отобразить домашнюю страницу
+categorythreads [ˈkætəɡəriˌθrɛdz] - категории тем
+note [noʊt] - заметка
+rename [ˌriːˈneɪm] - переименовать
+routes [ruːts] - маршруты
+container [kənˈteɪnər] - контейнер
+Thread [θrɛd] - Тема
+ThreadItem [θrɛd ˈaɪtəm] - Элемент темы
+models [ˈmɒdəlz] - модели
+points [pɔɪnts] - очки
+faReplyAll [ˈfeɪ rɪˈplaɪ ɔːl] - faReplyAll (иконка "Ответить всем" из Font Awesome)
+Link [lɪŋk] - Ссылка
+ThreadCardProps [θrɛd kɑrd prɒps] - ThreadCardProps (свойства карточки темы)
+ThreadCard [θrɛd kɑrd] - ThreadCard (карточка темы)
+thread [θrɛd] - тема
+onClickShowThread [ɒn ˈklɪk ʃoʊ θrɛd] - при щелчке по показу темы
+pushing [ˈpʊʃɪŋ] - добавление
+getPoints [ɡɛt pɔɪnts] - получить очки
+getResponses [ɡɛt rɪˈspɒnsɪz] - получить ответы
+ThreadItems [θrɛd ˈaɪtəmz] - Элементы тем
+getPointsNonMobile [ɡɛt pɔɪnts nɒn ˈmoʊbaɪl] - получить очки (для нетелефонов)
+key [kiː] - ключ
+categoryId [ˌkætəˈɡɔːri ˈɪd] - идентификатор категории
+flex [flɛks] - гибкость
+solid [ˈsɒlɪd] - сплошной
+category [ˈkætəɡəri] - категория
+ThreadCards [θrɛd kɑrdz] - Карточки тем
+threadCards [θrɛd kɑrdz] - карточки тем
+runs [rʌnz] - выполняется
+rightMenu [raɪt ˈmɛnjuː] - правое меню
+CategoryThread [ˈkætəɡəri θrɛd] - Тема категории
+lodash [ˈlɒdæʃ] - lodash (библиотека утилит JavaScript)
+groupBy [ɡruːp baɪ] - группировать по
+TopCategory [tɒp ˈkætəɡəri] - Главная категория
+topCategories [tɒp ˈkætəɡəriz] - главные категории
+getTopCategories [ɡɛt tɒp ˈkætəɡəriz] - получить главные категории
+TopCategoryProps [tɒp ˈkætəɡəri prɒps] - TopCategoryProps (свойства главной категории)
+strong [strɒŋ] - сильный
+individual [ˌɪndɪˈvɪdʒuəl] - индивидуальный
+getTimePastIfLessThanDay [ˌɡɛt taɪm pæst ɪf lɛs ðæn deɪ] - получить время, прошедшее, если меньше дня
+ThreadHeader [θrɛd ˈhɛdər] - Заголовок темы
+lastModifiedOn [ˈlæst ˈmɒdɪˌfaɪd ɒn] - последнее изменение
+ThreadModel [θrɛd ˈmɒdəl] - Модель темы
+In [ɪn] - В
+renderThread [ˈrɛndər θrɛd] - отобразить тему
+select [sɪˈlɛkt] - выбрать
+Install [ɪnˈstɔːl] - Установить
+ThreadCategoryProps [θrɛd ˈkætəɡəri prɒps] - ThreadCategoryProps (свойства категории тем)
+ThreadCategory [θrɛd ˈkætəɡəri] - Категория темы
+catOptions [kæt ˈɒpʃənz] - опции категории
+DropDown [drɒp daʊn] - Выпадающий список
+Title [ˈtaɪtl̩] - Заголовок
+ThreadTitle [θrɛd taɪtl̩] - Заголовок темы
+onChangeTitle [ɒn ˈʧeɪndʒ ˈtaɪtl̩] - при изменении заголовка
+This [ðɪs] - Этот
+slate [sleɪt] - плитка
+emotion [ɪˈmoʊʃən] - emotion (библиотека для стилизации React компонентов)
+editor [ˈɛdɪtər] - редактор
+isHotKey [ɪz ˈhɒt ˈkiː] - это горячая клавиша
+withHistory [wɪθ ˈhɪsˌtɒri] - с историей
+Button [ˈbʌtn] - Кнопка
+Toolbar [ˈtʊlbɑːr] - Панель инструментов
+RichTextControls [rɪʧ tɛkst kənˈtroʊlz] - RichTextControls (управление форматированным текстом)
+HOTKEYS [ˈhɒtˌkiːz] - ГОРЯЧИЕ КЛАВИШИ
+initialValue [ɪnɪˈʃəl ˌvaɪˈljuː] - начальное значение
+RichEditor [rɪʧ ˈɛdɪtər] - Расширенный редактор
+renderElement [ˈrɛndər ˈɛlɪmənt] - отобразить элемент
+Element [ˈɛlɪmənt] - Элемент
+renderLeaf [ˈrɛndər lif] - отобразить лист
+Leaf [lif] - Лист
+Slate [sleɪt] - Slate (библиотека для создания редакторов на основе текста)
+Editable [ˈɛdɪtəbl̩] - Редактируемый
+existingBody [ɪɡˈzɪstɪŋ bɒdi] - существующий текст
+onChangeEditorValue [ɒn ˈʧeɪndʒ ˈɛdɪtər ˈvæljuː] - при изменении значения редактора
+MarkButton [mɑrk ˈbʌtn] - Кнопка маркера
+BlockButton [blɒk ˈbʌtn] - Кнопка блока
+isMarkActive [ɪz mɑrk ˈæktɪv] - активен ли маркер
+toggleMark [ˈtɒɡəl mɑrk] - переключить маркер
+Nodes [noʊdz] - узлы
+isBlockActive [ɪz blɒk ˈæktɪv] - активен ли блок
+ToggleBlock [ˈtoʊɡəl blɒk] - переключить блок
+Leafs [lifs] - листья
+ThreadBody [θrɛd ˈbɒdi] - Тело темы
+ThreadResponse [θrɛd rɪˈspɒns] - Ответ на тему
+UserNameAndTime [ˈjuːzərneɪm ənd taɪm] - Имя пользователя и время
+ThreadResponseProps [θrɛd rɪˈspɒns prɒps] - Свойства ответа на тему
+ThreadResponsesBuilderProps [θrɛd rɪˈspɒnsɪz ˈbɪldər prɒps] - Свойства создателя ответов на тему
+responseElements [rɪˈspɒns ˈɛlɪmənts] - элементы ответа
+threadItems [θrɛd ˈaɪtəmz] - элементы темы
+ThreadResponses [θrɛd rɪˈspɒnsɪz] - Ответы на тему
+TheadResponse [ˈθrɛd rɪˈspɒns] - Ответ на тему
+ThreadResponsesBuilder [θrɛd rɪˈspɒnsɪz ˈbɪldər] - Создатель ответов на тему
+hr [eɪʧ ɑːr] - горизонтальная черта (HTML тег)
+ThreadPointsBarProps [θrɛd pɔɪnts bɑːr prɒps] - Свойства панели очков темы
+ThreadPointsBar [θrɛd pɔɪnts bɑːr] - Панель очков темы
+auto [ˈɔːtoʊ] - автоматический
+createdOn [kriːˈeɪtɪd ɒn] - создано
+ThreadPointsInline [θrɛd pɔɪnts ɪnˈlaɪn] - Встроенные очки темы
+single [ˈsɪŋɡl̩] - одинокий
+SideBarMenu [saɪd bɑːr ˈmɛnjuː] - Меню боковой панели
+userProfile [ˈjuːzər proʊˌfaɪl] - профиль пользователя
+getUserThreads [ˈɡɛt juːzər θrɛdz] - получить темы пользователя
+ThreadId [θrɛd aɪːˈdiː] - Идентификатор темы
+PasswordComparison [ˈpæsˌwɜːrd kəmˈpærɪsən] - Сравнение паролей
+though [ðoʊ] - хотя
+renderUserProfile [ˈrɛndər ˈjuːzərˌproʊˌfaɪl] - отобразить профиль пользователя
+Download [daʊnˈloʊd] - Загрузить
+make [meɪk] - создать
+Applications [ˌæplɪˈkeɪʃənz] - Приложения
+ping [pɪŋ] - пинг
+shutdown [ˈʃʌtˌdaʊn] - выключение
+mkdir [ˈmækdɪr] - создать каталог
+nano [ˈnænoʊ] - nano (текстовый редактор)
+requirepass [rɪˈkwaɪərˌpæs] - требуется пароль
+Ctrl [kɒntrəʊl] - Ctrl (клавиша)
+W [ˈdʌbljuː] - W (клавиша)
+Configuration [kənˌfɪɡjʊˈreɪʃən] - Конфигурация
+loaded [ˈloʊdɪd] - загружено
+author [ˈɔːθər] - автор
+ioredis [aɪˈoʊˌrɛdɪs] - ioredis (Node.js клиент для Redis)
+respawn [riːˈspɔːn] - respawn (перезапуск процесса)
+target [ˈtɑːrɡɪt] - цель
+SET [sɛt] - SET (команда Redis для установки значения)
+ready [ˈrɛdi] - готов
+session [ˈsɛʃən] - сессия
+connectRedis [kəˈnɛkt ˈriːdɪs] - подключиться к Redis
+redis [ˈrɛdɪs] - Redis (ин-memory база данных)
+RedisStore [ˈrɛdɪs stɔːr] - хранилище Redis
+redisStore [ˈrɛdɪs stɔːr] - хранилище Redis
+sameSite [seɪm saɪt] - sameSite (атрибут для куков, определяющий, когда они будут отправляться)
+secret [ˈsiːkrɪt] - секрет
+cookie [ˈkʊki] - куки (информация, хранящаяся на компьютере пользователя)
+httpOnly [ˈhʌtʃˌpoʊnli] - httpOnly (атрибут для куков, разрешающий доступ только через HTTP)
+secure [sɪˈkjʊr] - безопасный
+pgAdmin [piːˈdʒiː ˈædmɪn] - pgAdmin (административный инструмент для PostgreSQL)
+HandsOnFullStackGroup [hændz ɒn fʊl stæk ɡruːp] - Группа HandsOnFullStack
+Servers [ˈsɜːrvərz] - Серверы
+Server [ˈsɜːrvər] - Сервер
+SuperForumServers [ˈsuːpər ˈfɔːrəm ˈsɜːrvərz] - Серверы SuperForum
+Connection [kəˈnɛkʃən] - Подключение
+localhost [ˈloʊkəlhoʊst] - localhost (имя хоста для локальной машины)
+postgres [ˈpoʊstɡrɛs] - PostgreSQL (реляционная база данных)
+Save [seɪv] - Сохранить
+Create [kriːˈeɪt] - Создать
+General [ˈdʒɛnərəl] - Общий
+superforumsvc [ˈsuːpərˈfɔːrəmsvc] - superforumsvc (сервис для SuperForum)
+Definition [ˌdɛfɪˈnɪʃən] - Определение
+Privileges [ˈpraɪvəlɪdʒɪz] - Привилегии
+Databases [ˈdeɪtəˌbeɪsɪz] - Базы данных
+Database [ˈdeɪtəˌbeɪs] - База данных
+SuperForum [ˈsuːpərˈfɔːrəm] - SuperForum
+Owner [ˈoʊnər] - Владелец
+knows [noʊz] - знает
+Users [ˈjuːzərz] - Пользователи
+typeorm [taɪp ɔːrm] - TypeORM (Object-Relational Mapping для TypeScript и JavaScript)
+pg [piːdʒ] - pg (драйвер PostgreSQL для Node.js)
+repo [ˈriːpoʊ] - repo (репозиторий)
+Column [ˈkɒləm] - Колонка
+Entity [ˈɛntɪti] - Сущность
+PrimaryGeneratedColumn [ˈpraɪˌmɛri ˈʤɛnəˌreɪtɪd ˈkɒləm] - Первичный сгенерированный столбец
+Length [lɛŋθ] - Длина
+Email [ˈiːmeɪl] - Электронная почта
+varchar [ˈvɑrʧɑr] - varchar (тип данных для хранения переменной длины)
+unique [juːˈniːk] - уникальный
+attribute [ˈætrɪˌbjuːt] - атрибут
+nullable [ˈnʌləbl̩] - допускающий null
+password [ˈpæsˌwɜːrd] - пароль
+confirmed [kənˈfɜːrmd] - подтвержденный
+isDisabled [ɪz dɪsˈeɪbl̩d] - отключен
+createConnection [kriːˈeɪt kəˈnɛkʃən] - создать подключение
+Tables [ˈteɪblz] - Таблицы
+Id [aɪ diː] - Идентификатор
+Refresh [rɪˈfrɛʃ] - Обновить
+Threads [θrɛdz] - Темы
+OneToMany [wʌn tuː ˈmæni] - Один ко многим (связь между сущностями в базе данных)
+ManyToOne [ˈmɛni tuː ˈwʌn] - Многие к одному (связь между сущностями в базе данных)
+owning [ˈoʊnɪŋ] - владеющий
+threadId [θrɛd aɪd] - идентификатор темы
+CREATE TABLE [kriːˈeɪt ˈteɪbl] - CREATE TABLE (SQL команда для создания таблицы)
+ThreadPoints [θrɛd pɔɪnts] - Очки темы
+ThreadItemPoints [θrɛd ˈaɪtəm pɔɪnts] - Очки элемента темы
+ThreadPoint [θrɛd pɔɪnt] - Очко темы
+isDecrement [ɪz ˈdiːˌkrɪmənt] - уменьшение
+ThreadItemPoint [θrɛd ˈaɪtəm pɔɪnt] - Очко элемента темы
+BaseEntity [ˈbeɪs ˈɛntɪti] - Базовая сущность
+Auditable [ˈɔːdɪtəbl̩] - Поддающийся аудиту
+Getpgusername [ɡɛt piːdʒiː ˈjuːzərneɪm] - Получить имя пользователя pg
+time [taɪm] - время
+isPasswordValid [ɪz ˈpæsˌwɜːrd ˈvælɪd] - пароль действителен
+isEmailValid [ɪz ˈiːmeɪl ˈvælɪd] - электронная почта действительна
+enter valid [ˈɛntər ˈvælɪd] - введите действительный
+bcrypt [ˈbkrɪpt] - bcrypt (функция хеширования паролей)
+saltRounds [sɔlt raʊndz] - количество соли (для хеширования паролей)
+UserResult [ˈjuːzər rɪˈzʌlt] - Результат пользователя
+messages [ˈmɛsɪʤɪz] - сообщения
+register [ˈrɛʤɪstər] - зарегистрировать
+min [mɪn] - минимум
+upper [ˈʌpər] - верхний
+trimmedEmail [trɪmd ˈiːmeɪl] - обрезанная электронная почта
+emailErrorMsg [ˈiːmeɪl ˈɛrərˌmɛsɪʤ] - сообщение об ошибке в электронной почте
+salt [sɔlt] - соль
+hashedPassword [hæʃt ˈpæsˌwɜːrd] - хешированный пароль
+userEntity [ˈjuːzər ˈɛntɪti] - сущность пользователя
+create blank [kriːˈeɪt blæŋk] - создать пустую
+out security [aʊt sɪˈkjʊrəti] - из безопасности
+json [ˈʤeɪsən] - JSON (формат обмена данными)
+UserRepo [ˈjuːzər ˈriːpoʊ] - Репозиторий пользователя
+GET [ɡɛt] - GET (HTTP метод для получения данных)
+Send [sɛnd] - Отправить
+Cookies [ˈkʊkiz] - Куки
+superforum [ˈsuːpərˌfɔːrəm] - SuperForum
+Body [ˈbɒdi] - Тело
+JSON [ˈʤeɪsən] - JSON (JavaScript Object Notation)
+Scripts [skrɪpts] - Скрипты
+SELECT Script [sɪˈlɛkt skrɪpt] - SELECT Script (SQL команда для выбора скрипта)
+login [ˈlɒɡɪn] - вход
+their registration [ðɛr ˌrɛdʒɪsˈtreɪʃən] - их регистрация
+passwordMatch [ˈpæsˌwɜːrd mæʧ] - совпадение паролей
+userNotFound [ˈjuːzər ˈnɒt ˌfaʊnd] - пользователь не найден
+logged [lɔɡd] - вошедший
+Remember [rɪˈmɛmbər] - Запомнить
+logout [ˈlaʊɡaʊt] - выход
+ThreadRepo [θrɛd ˈriːpoʊ] - Репозиторий темы
+QueryResult [kwɪri rɪˈzʌlt] - Результат запроса
+QueryArrayResult [kwɪri ˈærɪˌreɪ rɪˈzʌlt] - Результат массива запроса
+createThread [kriːˈeɪt θrɛd] - создать тему
+titleMsg [ˈtaɪtl̩ mɛsɪʤ] - сообщение о заголовке
+bodyMsg [ˈbɒdi mɛsɪʤ] - сообщение о теле
+ThreadCategories [θrɛd ˈkætəˌɡɔːriz] - Категории тем
+insert notice [ɪnˈsɜːrt ˈnoʊtɪs] - вставить уведомление
+createthread [ˈkriːeɪtˌθrɛd] - создать тему
+getThreadById [ɡɛt θrɛd aɪd] - получить тему по идентификатору
+getThreadsByCategoryId [ɡɛt θrɛdz baɪ ˈkætəˌɡɔːri ˈaɪd] - получить темы по идентификатору категории
+where leftJoinAndSelect [weər lɛft ʤɔɪn ənd səˈlɛkt] - где объединить слева и выбрать
+OrderBy [ˈɔrdər ˈbaɪ] - Сортировать по
+getMany threadResult [ɡɛtˈmɛni θrɛd rɪˈzʌlt] - получить много результатов для темы
+scalar Date [ˈskelər deɪt] - скалярная дата
+EntityResult [ˈɛntɪti rɪˈzʌlt] - Результат сущности
+ThreadResult [θrɛd rɪˈzʌlt] - Результат темы
+either QueryOneResult [ˈaɪðər kwɪri wʌn rɪˈzʌlt] - либо один результат запроса
+ApolloServer error [əˈpɑːloʊ ˈsɜːrvər ˈɛrər] - ошибка сервера Apollo
+ThreadArray [θrɛd əˈreɪ] - Массив тем
+ThreadArrayResult [θrɛd əˈreɪ rɪˈzʌlt] - Результат массива тем
+updateThreadPoint [ʌpˈdeɪt θrɛd pɔɪnt] - обновить очко темы
+first check [fɜːrst ʧɛk] - сначала проверьте
+authenticated own [ɔːˈθɛntɪˌkeɪtɪd oʊn] - аутентифицированный пользователь
+existingPoint decrement [ɪgˈzɪstɪŋ pɔɪnt ˈdiːˌkrɪmənt] - существующее уменьшение очка
+like destroy me [laɪk dɪsˈtrɔɪ miː] - как разрушить меня
+credentials client [krɪˈdɛnʃəlz ˈklaɪənt] - учетные данные клиента
+cache ApolloProvider [kæʃ əˈpɑːloʊ prəˈvaɪdər] - кэш ApolloProvider
+useQuery [juːz ˈkwɪri] - использовать запрос
+UseQuery [juːz ˈkwɪri] - использовать запрос
+GetAllCategories [ˈɡɛt ɔːl ˈkætəˌɡɔːriz] - Получить все категории
+deleteMe [dɪˈliːt miː] - удалить меня
+categoriesData [ˈkætəˌɡɔːrizˌdeɪtə] - данные о категориях
+LogoutMutation [ˈlaʊɡaʊt mjuːˈteɪʃən] - Мутация выхода из системы
+changePassword ChangePassword [ʧeɪndʒ ˈpæsˌwɜːrd ʧeɪndʒ ˈpæsˌwɜːrd] - изменить пароль ChangePassword
+threadList threa [θrɛd lɪst θrɛə] - список тем threa
+threadItemList onClickChangePassword [θrɛd ˈaɪtəm lɪst ˈɔnˌklɪk ʧeɪndʒ ˈpæsˌwɜːrd] - список элементов тем при нажатии изменить пароль
+changePasswordData [ʧeɪndʒ ˈpæsˌwɜːrd ˈdeɪtə] - данные об изменении пароля
+Change Password [ʧeɪndʒ ˈpæsˌwɜːrd] - Изменить пароль
+relations findOne [rɪˈleɪʃənz ˈfɪndˌwʌn] - связи найти одно
+RichEditorProps [rɪʧ ˈɛdɪtər prɒps] - Свойства RichEditor
+AuthChecker edito [ɔːθ ˈʧɛkər ˈɛdɪtər] - AuthChecker редактор
+AdminChecker AuthChecker [ˈædmɪnˈʧɛkər ɔːθ ˈʧɛkər] - AdminChecker AuthChecker
+readOnly isReadOnly [ˈrɛdˌoʊnli ɪz ˈriːdˌoʊnli] - только для чтения isReadOnly
+isRichEditor isEditor [ɪz ˈrɪʧ ˈɛdɪtər ɪz ˈɛdɪtər] - является редактором isEditor
+value RawDraftContentState [ˈvæljuː roʊ dræft ˈkɒntɛnt steɪt] - значение RawDraftContentState
+ThreadItemRepo [θrɛd ˈaɪtəm ˈriːpoʊ] - Репозиторий элементов тем
+threadItemCreateData [θrɛd ˈaɪtəm kriːˈeɪt ˈdeɪtə] - данные о создании элемента темы
+threadItemEditData [θrɛd ˈaɪtəm ˈɛdɪt ˈdeɪtə] - данные об изменении элемента темы
+EditThreadItem [ˈɛdɪt ˈθrɛd ˈaɪtəm] - Изменить элемент темы
+editThreadItem [ˈɛdɪt θrɛd ˈaɪtəm] - изменить элемент темы
+threadItemId [θrɛd ˈaɪtəm ˈaɪd] - идентификатор элемента темы
+getThreadItemById [ɡɛt θrɛd ˈaɪtəm aɪd] - получить элемент темы по идентификатору
+threadItemRepo [θrɛd ˈaɪtəm ˈriːpoʊ] - репозиторий элементов темы
+updateThreadItem update [ʌpˈdeɪt θrɛd ˈaɪtəm ʌpˈdeɪt] - обновить элемент темы обновить
+adminEditThreadItem [ˈædmɪnˈɛdɪt ˈθrɛd ˈaɪtəm] - администратор изменить элемент темы
+editThreadItemAdmin [ˈɛdɪt θrɛd ˈaɪtəm ˈædmɪn] - изменить элемент темы администратором
+editThreadItemAdmin [ˈɛdɪt θrɛd ˈaɪtəm ˈædmɪn] - изменить элемент темы администратором
+Render ThreadItemEditor [ˈrɛndər ˈθrɛd ˈaɪtəm ˈɛdɪtər] - Отобразить редактор элементов темы
+threadItemEditData [θrɛd ˈaɪtəm ˈɛdɪt ˈdeɪtə] - данные об изменении элемента темы
+entities [ˈɛntɪtiz] - сущности
+entity [ˈɛntɪti] - сущность
+createEntityId [kriːˈeɪt ˈɛntɪti aɪd] - создать идентификатор сущности
+setId [sɛt aɪd] - установить идентификатор
+findEntityById [faɪnd ˈɛntɪti aɪd] - найти сущность по идентификатору
+updateEntity update [ʌpˈdeɪt ˈɛntɪti ʌpˈdeɪt] - обновить сущность обновить
+createOrUpdateEntity [kriːˈeɪt ˈɔːrˌʌpˌdeɪt ˈɛntɪti] - создать или обновить сущность
+Repository [rɪˈpɒzəˌtɔːri] - Репозиторий
+Logic [ˈlɒdʒɪk] - Логика
+Common [ˈkɒmən] - Общий
+Custom [ˈkʌstəm] - Пользовательский
+Implement [ˈɪmpləmənt] - Реализовать
+Pagination [ˌpædʒɪˈneɪʃən] - Пагинация
+Sorting [ˈsɔːrtɪŋ] - Сортировка
+Filtering [ˈfɪltərɪŋ] - Фильтрация
+Authorization [ˌɔːθəraɪˈzeɪʃən] - Авторизация
+Validation [ˌvælɪˈdeɪʃən] - Валидация
+Documentation [ˌdɒkjʊmɛnˈteɪʃən] - Документация
+Localization [ˌloʊkəlaɪˈzeɪʃən] - Локализация
+Internationalization [ˌɪntərnæʃənəlaɪˈzeɪʃən] - Интернационализация
+Accessibility [əkˌsɛsəˈbɪləti] - Доступность
+Usability [ˌjuzəˈbɪləti] - Удобство использования
+Frontend [ˈfrʌntˌɛnd] - Фронтенд
+Backend [ˈbækˌɛnd] - Бэкенд
+Full Stack [fʊl stæk] - Full Stack (полный стек)
+API (Application Programming Interface) [ˌeɪˌpiːˈaɪ] - Интерфейс прикладного программирования (API)
+Framework [ˈfreɪmwɜːrk] - Фреймворк
+Library [ˈlɪbrəri] - Библиотека
+Dependency [dɪˈpɛndənsi] - Зависимость
+Package [ˈpækɪdʒ] - Пакет
+Module [ˈmɒdjuːl] - Модуль
+Component [kəmˈpoʊnənt] - Компонент
+Class [klæs] - Класс
+Object [ˈɒbdʒɪkt] - Объект
+Method [ˈmɛθəd] - Метод
+Function [ˈfʌŋkʃən] - Функция
+Variable [ˈvɛriəbl] - Переменная
+Constant [ˈkɒnstənt] - Константа
+Parameter [pəˈræmɪtər] - Параметр
+Argument [ˈɑːrɡjəmənt] - Аргумент
+Return [rɪˈtɜːrn] - Возвращаемое значение
+Type [taɪp] - Тип
+Interface [ˈɪntərfeɪs] - Интерфейс
+Class Inheritance [klæs ɪnˈhɛrɪtəns] - Наследование классов
+Method Overloading [ˈmɛθəd ˈoʊvərˌloʊdɪŋ] - Перегрузка методов
+Method Overriding [ˈmɛθəd ˌoʊvərˈraɪdɪŋ] - Переопределение методов
+Polymorphism [ˌpɒlɪˈmɔːrfɪzəm] - Полиморфизм
+Encapsulation [ɪnˌkæpsjuːˈleɪʃən] - Инкапсуляция
+Abstraction [æbˈstrækʃən] - Абстракция
+MVC (Model-View-Controller) [ˌem viː ˈsiː] - MVC (Модель-Представление-Контроллер)
+MVVM (Model-View-ViewModel) [ˌem viː viː viː ˈɛl] - MVVM (Модель-Представление-Модель Представления)
+CRUD (Create, Read, Update, Delete) [krʌd] - CRUD (Создание, Чтение, Обновление, Удаление)
+REST (Representational State Transfer) [rɛst] - REST (Представительная передача состояния)
+API Endpoint [ˈeɪˌpiːˈaɪ ˈɛndˌpɔɪnt] - Конечная точка API
+Request [rɪˈkwɛst] - Запрос
+Response [rɪˈspɒns] - Ответ
+Status Code [ˈstætəs koʊd] - Код состояния
+Authentication [ɔːθɛntɪˈkeɪʃən] - Аутентификация
+Authorization [ˌɔːθəraɪˈzeɪʃən] - Авторизация
+Token [ˈtoʊkən] - Токен
+JWT (JSON Web Token) [dʒeɪˌdʌbjuːˈtiː] - JWT (JSON Web Token)
+OAuth [oʊˈɔːθ] - OAuth
+CORS (Cross-Origin Resource Sharing) [kɔːrs] - CORS (Ресурсы с разных источников)
+CRUD Operations [krʌd ˌɒpəˈreɪʃənz] - Операции CRUD
+Schema [ˈskiːmə] - Схема
+Migration [maɪˈɡreɪʃən] - Миграция
+Seeding [ˈsiːdɪŋ] - Наполнение данными
+Deployment [dɪˈplɔɪmənt] - Развертывание
+Continuous Integration (CI) [kənˈtɪnjuəs ˌɪntɪˈɡreɪʃən] - Непрерывная интеграция (CI)
+Continuous Delivery (CD) [kənˈtɪnjuəs dɪˈlɪvəri] - Непрерывная доставка (CD)
+Continuous Deployment [kənˈtɪnjuəs dɪˈplɔɪmənt] - Непрерывное развертывание
+DevOps [ˌdiːvˈɒps] - DevOps
+Agile [ˈædʒaɪl] - Гибкие методы разработки (Agile)
+Scrum [skrʌm] - Scrum
+Kanban [ˈkɑːnbæn] - Канбан
+User Story [ˈjuːzər ˈstɔːri] - Пользовательская история
+Sprint [sprɪnt] - Спринт
+Backlog [ˈbækˌlɔːɡ] - Бэклог
+Epic [ˈɛpɪk] - Эпик
+Task [tæsk] - Задача
+Burn-down Chart [bɜːrn-daʊn tʃɑːrt] - Диаграмма остаточных задач
+Code Review [koʊd rɪˈvjuː] - Рецензирование кода
+Pair Programming [pɛr ˈproʊɡræmɪŋ] - Парное программирование
+Version Control [ˈvɜːrʒən kənˈtroʊl] - Система контроля версий
+Git [ɡɪt] - Git
+Repository [rɪˈpɒzəˌtɔːri] - Репозиторий
+Branch [bræntʃ] - Ветвь (бранч)
+Merge [mɜːrdʒ] - Слияние (merge)
+Pull Request [pʊl rɪˈkwɛst] - Запрос на включение (pull request)
+Fork [fɔːrk] - Форк
+Commit [ˈkɒmɪt] - Коммит
+Continuous Monitoring [kənˈtɪnjuəs ˈmɒnɪtərɪŋ] - Непрерывное мониторинг
+Bug [bʌɡ] - Ошибка (баг)
+Debugging [ˈdiːˌbʌɡɪŋ] - Отладка
+Logging [ˈlɒɡɪŋ] - Логирование
+Profiling [ˈproʊfaɪlɪŋ] - Профилирование
+Refactoring [ˌriːˈfæktərɪŋ] - Рефакторинг
+Code Smell [koʊd smɛl] - "Запах кода" (Code Smell)
+Scalability [ˌskeɪləˈbɪləti] - Масштабируемость
+Performance [pərˈfɔːrməns] - Производительность
+Security [sɪˈkjʊrəti] - Безопасность
+Dependency Injection [dɪˈpɛndənsi ɪnˈʤɛkʃən] - Внедрение зависимости
+Inversion of Control (IoC) [ɪnˈvɜːrʒən əv kənˈtroʊl] - Инверсия управления (IoC)
+Design Patterns [dɪˈzaɪn ˈpætərnz] - Паттерны проектирования
+Creational Patterns [kriːˈeɪʃənl ˈpætərnz] - Порождающие паттерны
+Structural Patterns [ˈstrʌkʧərəl ˈpætərnz] - Структурные паттерны
+Behavioral Patterns [bɪˈheɪvjərəl ˈpætərnz] - Поведенческие паттерны
+Clean Code [klin koʊd] - Чистый код
+SOLID Principles [ˈsɒlɪd ˈprɪnsəplz] - Принципы SOLID
+DRY (Don't Repeat Yourself) [draɪ] - Принцип DRY (не повторяйся)
+KISS (Keep It Simple, Stupid) [kɪs] - Принцип KISS (делайте всё максимально просто)
+YAGNI (You Ain't Gonna Need It) [ˈjæɡni] - Принцип YAGNI (Вам это не понадобится)
+TDD (Test-Driven Development) [tiː diː diː] - TDD (Разработка через тестирование)
+BDD (Behavior-Driven Development) [biː diː diː] - BDD (Разработка через поведение)
+Code Review [koʊd rɪˈvjuː] - Рецензирование кода
+Pair Programming [pɛr ˈproʊɡræmɪŋ] - Парное программирование
+Documentation [ˌdɒkjʊmɛnˈteɪʃən] - Документация
+Tech Debt (Technical Debt) [tɛk dɛt] - Технический долг (Tech Debt)
+Integration Testing [ˌɪntɪˈɡreɪʃən ˈtɛstɪŋ] - Интеграционное тестирование
+Unit Testing [ˈjuːnɪt ˈtɛstɪŋ] - Модульное тестирование
+Functional Testing [ˈfʌŋkʃənl ˈtɛstɪŋ] - Функциональное тестирование
+Regression Testing [rɪˈɡrɛʃən ˈtɛstɪŋ] - Регрессионное тестирование
+User Acceptance Testing (UAT) [ˈjuːzər ˌækˈsɛptəns ˈtɛstɪŋ] - Приемочное тестирование пользователя (UAT)
+Load Testing [loʊd ˈtɛstɪŋ] - Тестирование нагрузки
+Stress Testing [strɛs ˈtɛstɪŋ] - Тестирование стресса
+Performance Testing [pərˈfɔːrməns ˈtɛstɪŋ] - Тестирование производительности
+Automation Testing [ˌɔːtəˈmeɪʃən ˈtɛstɪŋ] - Автоматизированное тестирование
+Test Case [tɛst keɪs] - Тестовый случай (тест-кейс)
+Test Plan [tɛst plæn] - План тестирования
+Test Suite [tɛst swiːt] - Набор тестов (тест-набор)
+Test Data [tɛst ˈdeɪtə] - Тестовые данные
+Test Coverage [tɛst ˈkʌvərɪdʒ] - Покрытие тестами
+Test Report [tɛst rɪˈpɔːrt] - Отчет о тестировании
+Test Driven Development (TDD) [tɛst ˈdrɪvən dɪˈvɛləpmənt] - Разработка через тестирование (TDD)
+Behavior Driven Development (BDD) [bɪˈheɪvjər ˈdrɪvən dɪˈvɛləpmənt] - Разработка через поведение (BDD)
+Mock [mɒk] - Мок (заглушка)
+Stub [stʌb] - Стаб (заглушка)
+Spy [spaɪ] - Шпион (тестовый двойник)
+Code Smell [koʊd smɛl] - "Запах кода" (Code Smell)
+Refactoring [ˌriːˈfæktərɪŋ] - Рефакторинг
+Continuous Deployment [kənˈtɪnjuəs dɪˈplɔɪmənt] - Непрерывное развертывание
+Continuous Monitoring [kənˈtɪnjuəs ˈmɒnɪtərɪŋ] - Непрерывное мониторинг
+Agile [ˈædʒaɪl] - Гибкие методы разработки (Agile)
+Scrum [skrʌm] - Scrum
+Kanban [ˈkɑːnbæn] - Канбан
+Pair Programming [pɛr ˈproʊɡræmɪŋ] - Парное программирование
+Version Control [ˈvɜːrʒən kənˈtroʊl] - Система контроля версий
+Git [ɡɪt] - Git
+Repository [rɪˈpɒzəˌtɔːri] - Репозиторий
+Branch [bræntʃ] - Ветвь (бранч)
+Merge [mɜːrdʒ] - Слияние (merge)
+Pull Request [pʊl rɪˈkwɛst] - Запрос на включение (pull request)
+Fork [fɔːrk] - Форк
+Commit [ˈkɒmɪt] - Коммит
+Continuous Integration (CI) [kənˈtɪnjuəs ˌɪntɪˈɡreɪʃən] - Непрерывная интеграция (CI)
+Continuous Delivery (CD) [kənˈtɪnjuəs dɪˈlɪvəri] - Непрерывная доставка (CD)
+DevOps [ˌdiːvˈɒps] - DevOps
+Security [sɪˈkjʊrəti] - Безопасность
+Dependency Injection [dɪˈpɛndənsi ɪnˈʤɛkʃən] - Внедрение зависимости
+Inversion of Control (IoC) [ɪnˈvɜːrʒən əv kənˈtroʊl] - Инверсия управления (IoC)
+Clean Code [klin koʊd] - Чистый код
+SOLID Principles [ˈsɒlɪd ˈprɪnsəplz] - Принципы SOLID
+DRY (Don't Repeat Yourself) [draɪ] - Принцип DRY (не повторяйся)
+YAGNI (You Ain't Gonna Need It) [ˈjæɡni] - Принцип YAGNI (Тебе это не понадобится)
+KISS (Keep It Simple, Stupid) [kɪs] - Принцип KISS (Делай это просто, дурак)
+TDD (Test Driven Development) [ˈtiːdiːˈdiː] - Разработка через тестирование (TDD)
+BDD (Behavior Driven Development) [biːdiːˈdiː] - Разработка через поведение (BDD)
+Waterfall Model [ˈwɔːtərfɔːl ˈmɒdl] - Модель "Водопад"
+Agile Manifesto [ˈædʒaɪl ˌmænɪˈfɛstoʊ] - Манифест гибких методов разработки (Agile Manifesto)
+MVP (Minimum Viable Product) [ˈmɪnɪməm ˈvaɪəbl ˈprɒdʌkt] - Минимально жизнеспособный продукт (MVP)
+User Story [ˈjuːzər ˈstɔːri] - Пользовательская история (User Story)
+Epic [ˈɛpɪk] - Эпик (значительный кусок работы)
+Sprint [sprɪnt] - Спринт
+Burn-Down Chart [bɜːrn daʊn ʧɑːrt] - Диаграмма сгорания (Burn-Down Chart)
+Product Backlog [ˈprɒdʌkt ˈbæklɔɡ] - Бэклог продукта (Product Backlog)
+Scrum Master [skrʌm ˈmæstər] - Скрам-мастер (ведущий Scrum-процесса)
+Product Owner [ˈprɒdʌkt ˈoʊnər] - Владелец продукта (Product Owner)
+Retrospective [ˌrɛtrəˈspɛktɪv] - Ретроспектива (ретроспективное собрание)
+Kanban Board [ˈkɑːnbæn bɔːrd] - Канбан-доска
+WIP (Work in Progress) [wɜːrk ɪn ˈproʊɡrɛs] - Работа в процессе (WIP)
+Code Review [koʊd rɪˈvjuː] - Ревью кода (Code Review)
+Pair Review [pɛr rɪˈvjuː] - Ревью вдвоем (Pair Review)
+Continuous Improvement [kənˈtɪnjuəs ɪmˈpruːvmənt] - Непрерывное улучшение
+Sprint Planning [sprɪnt ˈplænɪŋ] - Планирование спринта
+Sprint Review [sprɪnt rɪˈvjuː] - Обзор спринта
+Sprint Retrospective [sprɪnt ˌrɛtrəˈspɛktɪv] - Ретроспектива спринта
+Definition of Done (DoD) [ˌdɛfɪˈnɪʃən əv dʌn] - Определение завершенности (DoD)
+User Persona [ˈjuːzər pɜːrˈsoʊnə] - Пользовательская персона (User Persona)
+Wireframe [ˈwaɪərfreɪm] - Схематическое изображение (Wireframe)
+Prototype [ˈproʊtətaɪp] - Прототип
+Usability [ˌjuːzəˈbɪləti] - Удобство использования (Usability)
+A/B Testing [eɪ biː ˈtɛstɪŋ] - A/B-тестирование
+Analytics [ænəˈlɪtɪks] - Аналитика
+Conversion Rate [kənˈvɜːrʒən reɪt] - Конверсионная ставка (Conversion Rate)
+User Engagement [ˈjuːzər ɪnˈɡeɪdʒmənt] - Вовлеченность пользователя (User Engagement)
+Click-Through Rate (CTR) [klɪk θruː raɪt] - Коэффициент кликабельности (CTR)
+Bounce Rate [baʊns reɪt] - Отказы (Bounce Rate)
+Heatmap [ˈhiːtˌmæp] - Тепловая карта (Heatmap)
+Funnel [ˈfʌnl] - Воронка продаж (Funnel)
+Churn Rate [ʧɜːrn reɪt] - Коэффициент оттока (Churn Rate)
+User Flow [ˈjuːzər floʊ] - Путь пользователя (User Flow)
+KPI (Key Performance Indicator) [keɪ piː ˈaɪ] - Ключевой показатель эффективности (KPI)
+ROI (Return on Investment) [ˌrɔɪ ˌɑːn ɒn ɪnˈvɛstmənt] - Окупаемость инвестиций (ROI)
+SEO (Search Engine Optimization) [ˌɛs iː ˈoʊ] - Оптимизация под поисковые системы (SEO)
+SEM (Search Engine Marketing) [ˌɛs iː ˈɛm] - Маркетинг в поисковых системах (SEM)
+CTA (Call to Action) [kɔːl tuː ˈækʃən] - Призыв к действию (CTA)
+Organic Traffic [ɔrˈɡænɪk ˈtræfɪk] - Органический трафик (Organic Traffic)
+Paid Traffic [peɪd ˈtræfɪk] - Платный трафик (Paid Traffic)
+Social Media Marketing [ˈsoʊʃəl ˈmidiə ˈmɑːrkɪtɪŋ] - Маркетинг в социальных сетях (SMM)
+Content Marketing [ˈkɒntɛnt ˈmɑːrkɪtɪŋ] - Контент-маркетинг
+Email Marketing [ˈiːmeɪl ˈmɑːrkɪtɪŋ] - Электронный маркетинг (Email Marketing)
+Influencer Marketing [ˈɪnfluənsər ˈmɑːrkɪtɪŋ] - Маркетинг с помощью влиятельных лиц (Influencer Marketing)
+Retargeting [riːˈtɑːrɡɪtɪŋ] - Ретаргетинг
+AIDA (Attention, Interest, Desire, Action) [ˈeɪdə] - Модель AIDA (Внимание, Интерес, Желание, Действие)
+Customer Segmentation [ˈkʌstəmər ˌsɛɡmɛnˈteɪʃən] - Сегментация клиентов (Customer Segmentation)
+Customer Persona [ˈkʌstəmər pɜːrˈsoʊnə] - Портрет клиента (Customer Persona)
+CRM (Customer Relationship Management) [ˌkʌstəmər rɪˈleɪʃənʃɪp ˈmænɪdʒmənt] - Управление взаимоотношениями с клиентами (CRM)
+ROI (Return on Investment) [ˌrɔɪ ˌɑːn ɒn ɪnˈvɛstmənt] - Окупаемость инвестиций (ROI)
+Conversion Funnel [kənˈvɜːrʒən ˈfʌnl] - Воронка продаж (Conversion Funnel)
+Lead Generation [liːd ˌʤɛnəˈreɪʃən] - Генерация лидов (Lead Generation)
+Churn Rate [ʧɜːrn reɪt] - Коэффициент оттока (Churn Rate)
+Customer Acquisition Cost (CAC) [ˈkʌstəmər ˌækwɪˈzɪʃən kɒst] - Стоимость привлечения клиента (CAC)
+Customer Lifetime Value (CLTV) [ˈkʌstəmər ˈlaɪftaɪm ˈvæljuː] - Жизненная стоимость клиента (CLTV)
+NPS (Net Promoter Score) [nɛt ˈprəʊmət skɔːr] - NPS (Net Promoter Score)
+UX (User Experience) [ˌjuː ˌɛks] - Пользовательский опыт (UX)
+UI (User Interface) [ˌjuː ˌaɪ] - Пользовательский интерфейс (UI)
+Wireframe [ˈwaɪərfreɪm] - Схематическое изображение (Wireframe)
+Prototype [ˈproʊtətaɪp] - Прототип
+Information Architecture [ˌɪnfərˈmeɪʃən ˌɑːrkɪˈtɛkʧər] - Информационная архитектура
+Usability Testing [ˌjuːzəˈbɪləti ˈtɛstɪŋ] - Тестирование на удобство использования
+Accessibility [əkˌsɛsəˈbɪləti] - Доступность (Accessibility)
+Responsive Design [rɪˈspɒnsɪv dɪˈzaɪn] - Адаптивный дизайн (Responsive Design)
+A/B Testing [eɪ biː ˈtɛstɪŋ] - A/B-тестирование
+Heatmap [ˈhiːtˌmæp] - Тепловая карта (Heatmap)
+Click-Through Rate (CTR) [klɪk θruː raɪt] - Коэффициент кликабельности (CTR)
+Conversion Rate Optimization (CRO) [kənˈvɜːrʒən reɪt ˌɒptɪmɪˈzeɪʃən] - Оптимизация конверсионной ставки (CRO)
+SEO (Search Engine Optimization) [ˌɛs iː ˈoʊ] - Оптимизация под поисковые системы (SEO)
+SEM (Search Engine Marketing) [ˌɛs iː ˈɛm] - Маркетинг в поисковых системах (SEM)
+Content Marketing [ˈkɒntɛnt ˈmɑːrkɪtɪŋ] - Контент-маркетинг
+Email Marketing [ˈiːmeɪl ˈmɑːrkɪtɪŋ] - Электронный маркетинг (Email Marketing)
+Influencer Marketing [ˈɪnfluənsər ˈmɑːrkɪtɪŋ] - Маркетинг с помощью влиятельных лиц (Influencer Marketing)
+Social Media Marketing [ˈsoʊʃəl ˈmidiə ˈmɑːrkɪtɪŋ] - Маркетинг в социальных сетях (SMM)
+Paid Advertising [peɪd ˈædvərˌtaɪzɪŋ] - Платная реклама (Paid Advertising)
+Native Advertising [ˈneɪtɪv ˈædvərˌtaɪzɪŋ] - Нативная реклама (Native Advertising)
+Display Advertising [dɪsˈpleɪ ədˈvɜːrˌtaɪzɪŋ] - Дисплейная реклама (Display Advertising)
+Remarketing [riːˈmɑːrkɪtɪŋ] - Ремаркетинг
+Social Proof [ˈsoʊʃəl pruːf] - Социальное доказательство (Social Proof)
+Landing Page [ˈlændɪŋ peɪdʒ] - Целевая страница (Landing Page)
+Call to Action (CTA) [kɔːl tuː ˈækʃən] - Призыв к действию (CTA)
+Conversion Rate [kənˈvɜːrʒən reɪt] - Конверсионная ставка (Conversion Rate)
+Bounce Rate [baʊns reɪt] - Отказы (Bounce Rate)
+Customer Feedback [ˈkʌstəmər ˈfidˌbæk] - Обратная связь клиента (Customer Feedback)
+Customer Support [ˈkʌstəmər səˈpɔːrt] - Поддержка клиентов (Customer Support)
+Chatbot [ˈʧætˌbɒt] - Чат-бот (Chatbot)
+Customer Service [ˈkʌstəmər ˈsɜːrvɪs] - Обслуживание клиентов (Customer Service)
+Ticket System [ˈtɪkɪt ˌsɪstəm] - Система заявок (Ticket System)

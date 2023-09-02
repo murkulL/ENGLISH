@@ -1,0 +1,426 @@
+Apple [ˈæpəl] - Яблоко
+Dog [dɔɡ] - Собака
+Cat [kæt] - Кошка
+House [haʊs] - Дом
+Car [kɑr] - Машина
+Book [bʊk] - Книга
+Sun [sʌn] - Солнце
+Moon [mun] - Луна
+Water [ˈwɔtər] - Вода
+Fire [faɪr] - Огонь
+Table [ˈteɪbəl] - Стол
+Chair [tʃɛr] - Стул
+Computer [kəmˈpjuːtər] - Компьютер
+Phone [foʊn] - Телефон
+Friend [frɛnd] - Друг
+Family [ˈfæməli] - Семья
+Love [lʌv] - Любовь
+Time [taɪm] - Время
+Money [ˈmʌni] - Деньги
+School [skul] - Школа
+Doctor [ˈdɑktər] - Врач
+Hospital [ˈhɑːspɪtl] - Больница
+Music [ˈmjuzɪk] - Музыка
+Movie [ˈmuːvi] - Фильм
+Beach [biːtʃ] - Пляж
+Mountain [ˈmaʊntən] - Гора
+Forest [ˈfɔrɪst] - Лес
+Flower [ˈflaʊər] - Цветок
+Rain [reɪn] - Дождь
+Snow [snoʊ] - Снег
+Wind [wɪnd] - Ветер
+Sea [siː] - Море
+River [ˈrɪvər] - Река
+Star [stɑːr] - Звезда
+Sky [skaɪ] - Небо
+Earth [ɜːrθ] - Земля
+Air [ɛr] - Воздух
+Food [fuːd] - Еда
+Drink [drɪŋk] - Напиток
+Sleep [sliːp] - Сон
+Wake [weɪk] - Будиться
+Read [riːd] - Читать
+Write [raɪt] - Писать
+Listen [ˈlɪsn] - Слушать
+Speak [spiːk] - Говорить
+Sing [sɪŋ] - Петь
+Dance [dæns] - Танцевать
+Run [rʌn] - Бегать
+Walk [wɔːk] - Ходить
+Jump [dʒʌmp] - Прыгать
+Swim [swɪm] - Плавать
+Drive [draɪv] - Водить (машины)
+Fly [flaɪ] - Летать
+Eat [iːt] - Есть
+Drink [drɪŋk] - Пить
+Sleep [sliːp] - Спать
+Dream [driːm] - Мечтать
+Think [θɪŋk] - Думать
+See [siː] - Видеть
+Hear [hɪr] - Слышать
+Touch [tʌtʃ] - Касаться
+Smell [smɛl] - Пахнуть
+Taste [teɪst] - Пробовать
+Laugh [læf] - Смеяться
+Cry [kraɪ] - Плакать
+Smile [smaɪl] - Улыбаться
+Sing [sɪŋ] - Петь
+Dance [dæns] - Танцевать
+Talk [tɔːk] - Разговаривать
+Walk [wɔːk] - Ходить
+Run [rʌn] - Бегать
+Jump [dʒʌmp] - Прыгать
+Climb [klaɪm] - Забираться
+Play [pleɪ] - Играть
+Learn [lɜːrn] - Учиться
+Teach [tiːʧ] - Учить
+Read [riːd] - Читать
+Write [raɪt] - Писать
+Draw [drɔː] - Рисовать
+Paint [peɪnt] - Красить
+Cook [kʊk] - Готовить
+Bake [beɪk] - Выпекать
+Clean [kliːn] - Чистить
+Wash [wɑːʃ] - Мыть
+Shower [ˈʃaʊər] - Душ
+Brush [brʌʃ] - Чистить (зубы)
+Comb [koʊm] - Расчесывать
+Cut [kʌt] - Резать
+Sew [soʊ] - Шить
+Tie [taɪ] - Завязывать
+Wear [wɛr] - Носить (одежду)
+Take [teɪk] - Брать
+Give [ɡɪv] - Давать
+Receive [rɪˈsiːv] - Получать
+Open [ˈoʊpən] - Открывать
+Close [kloʊz] - Закрывать
+Push [pʊʃ] - Толкать
+Pull [pʊl] - Тянуть
+Lift [lɪft] - Поднимать
+Drop [drɒp] - Отпускать
+Look [lʊk] - Смотреть
+Search [sɜːrtʃ] - Искать
+Find [faɪnd] - Находить
+Lose [luːz] - Терять
+Win [wɪn] - Выигрывать
+Fail [feɪl] - Провалиться
+Succeed [səkˈsiːd] - Достигать успеха
+Create [kriːˈeɪt] - Создавать
+Destroy [dɪˈstrɔɪ] - Уничтожать
+Build [bɪld] - Строить
+Break [breɪk] - Ломать
+Fix [fɪks] - Чинить
+Help [hɛlp] - Помогать
+Hurt [hɜːrt] - Ранить
+Protect [prəˈtɛkt] - Защищать
+Attack [əˈtæk] - Атаковать
+Defend [dɪˈfɛnd] - Защищать
+Drive [draɪv] - Водить (транспорт)
+Ride [raɪd] - Кататься
+Walk [wɔːk] - Гулять
+Run [rʌn] - Бегать
+Swim [swɪm] - Плавать
+Fly [flaɪ] - Летать
+Crawl [krɔːl] - Ползать
+Jump [dʒʌmp] - Прыгать
+Play [pleɪ] - Играть
+Win [wɪn] - Побеждать
+Lose [luːz] - Проигрывать
+Score [skɔːr] - Счет (в спорте)
+Compete [kəmˈpiːt] - Соревноваться
+Exercise [ˈɛksərsaɪz] - Упражнение
+Stretch [strɛʧ] - Растягивать
+Flex [flɛks] - Сгибать
+Bend [bɛnd] - Гнуть
+Twist [twɪst] - Вращать
+Lift [lɪft] - Поднимать
+Push [pʊʃ] - Толкать
+Pull [pʊl] - Тянуть
+Carry [ˈkæri] - Нести
+Throw [θroʊ] - Бросать
+Catch [kæʧ] - Ловить
+Release [rɪˈliːs] - Отпускать
+Aim [eɪm] - Целиться
+Shoot [ʃut] - Стрелять
+Kick [kɪk] - Ударять ногой
+Punch [pʌntʃ] - Бить кулаком
+Block [blɑːk] - Блокировать
+Dodge [dɒdʒ] - Уклоняться
+Attack [əˈtæk] - Нападать
+Defend [dɪˈfɛnd] - Защищаться
+Strategy [ˈstrætədʒi] - Стратегия
+Tactics [ˈtæktɪks] - Тактика
+Victory [ˈvɪktəri] - Победа
+Defeat [dɪˈfiːt] - Поражение
+Team [tiːm] - Команда
+Player [ˈpleɪər] - Игрок
+Coach [koʊʧ] - Тренер
+Referee [ˌrɛfəˈriː] - Судья
+Trophy [ˈtroʊfi] - Трофей
+Medal [ˈmɛdl] - Медаль
+Coach [koʊʧ] - Автобус
+Train [treɪn] - Поезд
+Plane [pleɪn] - Самолет
+Ship [ʃɪp] - Корабль
+Bicycle [ˈbaɪsɪkl] - Велосипед
+Motorbike [ˈmoʊtərbaɪk] - Мотоцикл
+Taxi [ˈtæksi] - Такси
+Subway [ˈsʌbweɪ] - Метро
+Bus [bʌs] - Автобус
+Tram [træm] - Трамвай
+Street [striːt] - Улица
+Road [roʊd] - Дорога
+Highway [ˈhaɪweɪ] - Шоссе
+Lane [leɪn] - Полоса движения
+Path [pæθ] - Путь
+Bridge [brɪdʒ] - Мост
+Tunnel [ˈtʌnl] - Туннель
+Airport [ˈɛrˌpɔrt] - Аэропорт
+Station [ˈsteɪʃən] - Вокзал, станция
+Port [pɔːrt] - Порт
+Stop [stɑːp] - Остановка
+Go [ɡoʊ] - Идти, ехать
+Wait [weɪt] - Ждать
+Arrive [əˈraɪv] - Прибывать
+Depart [dɪˈpɑːrt] - Отправляться
+Board [bɔːrd] - Садиться на борт
+Ticket [ˈtɪkɪt] - Билет
+Passport [ˈpæspɔːrt] - Паспорт
+Visa [ˈviːzə] - Виза
+Luggage [ˈlʌɡɪdʒ] - Багаж
+Suitcase [ˈsuːtkeɪs] - Чемодан
+Backpack [ˈbækˌpæk] - Рюкзак
+Bag [bæɡ] - Сумка
+Wallet [ˈwɔlɪt] - Кошелек
+Purse [pɜːrs] - Дамская сумка
+Phone [foʊn] - Телефон
+Charger [ˈʧɑːrdʒər] - Зарядное устройство
+Battery [ˈbætəri] - Батарея
+Screen [skriːn] - Экран
+Button [ˈbʌtn] - Кнопка
+Programming [ˈproʊɡræmɪŋ] - Программирование
+Code [koʊd] - Код
+Algorithm [ˈælɡəˌrɪðəm] - Алгоритм
+Function [ˈfʌŋkʃən] - Функция
+Variable [ˈvɛriəbl] - Переменная
+Array [əˈreɪ] - Массив
+Loop [luːp] - Цикл
+If [ɪf] - Если
+Else [ɛls] - Иначе
+While [waɪl] - Пока
+For [fɔːr] - Для
+Switch [swɪʧ] - Переключатель
+Break [breɪk] - Прерывание
+Continue [kənˈtɪnjuː] - Продолжить
+Return [rɪˈtɜːrn] - Возврат
+Debug [diːˈbʌɡ] - Отладка
+Error [ˈɛrər] - Ошибка
+Bug [bʌɡ] - Баг
+Compile [kəmˈpaɪl] - Компилировать
+Run [rʌn] - Запускать
+Test [tɛst] - Тестировать
+Deploy [dɪˈplɔɪ] - Развертывать
+Git [ɡɪt] - Гит (система контроля версий)
+Repository [rɪˈpɒzɪtəri] - Репозиторий
+Branch [brænʧ] - Ветка
+Merge [mɜːrdʒ] - Слияние
+Pull request [pʊl rɪˈkwɛst] - Запрос на включение изменений
+Front-End [frʌnt ɛnd] - Фронтенд (разработка пользовательского интерфейса)
+HTML [eɪʧ tiː ɛm ɛl] - HTML (язык разметки)
+CSS [siː ɛs ɛs] - CSS (каскадные таблицы стилей)
+JavaScript [ˈʤɑːvəˌskrɪpt] - JavaScript (язык программирования)
+Framework [ˈfreɪmwɜːrk] - Фреймворк
+Library [ˈlɪbrəri] - Библиотека
+Responsive [rɪˈspɒnsɪv] - Адаптивный
+Design [dɪˈzaɪn] - Дизайн
+Interface [ˈɪntərfeɪs] - Интерфейс
+User [ˈjuːzər] - Пользователь
+Click [klɪk] - Клик
+Hover [ˈhoʊvər] - Наведение
+Input [ˈɪnpʊt] - Ввод
+Output [ˈaʊtpʊt] - Вывод
+Database [ˈdeɪtəbeɪs] - База данных
+SQL [ˌɛs kjuː ˈɛl] - SQL (язык структурированных запросов)
+API [ˌeɪ piː ˈaɪ] - API (интерфейс программирования приложений)
+Endpoint [ˈɛndˌpɔɪnt] - Эндпоинт (конечная точка API)
+Request [rɪˈkwɛst] - Запрос
+Response [rɪˈspɒns] - Ответ
+Server [ˈsɜːrvər] - Сервер
+Client [ˈklaɪənt] - Клиент
+Hosting [ˈhoʊstɪŋ] - Хостинг
+Domain [dəˈmeɪn] - Домен
+URL [juː ɑːr ˈɛl] - URL (унифицированный указатель ресурса)
+Webpage [ˈwɛbpɪdʒ] - Веб-страница
+Website [ˈwɛbsaɪt] - Веб-сайт
+Navigation [ˌnævɪˈɡeɪʃən] - Навигация
+Link [lɪŋk] - Ссылка
+Button [ˈbʌtn] - Кнопка
+Form [fɔːrm] - Форма
+Input [ˈɪnpʊt] - Поле ввода
+Checkbox [ˈʧɛkbɑːks] - Флажок
+Radio [ˈreɪdioʊ] - Радиокнопка
+Dropdown [ˈdraʊnˌdaʊn] - Выпадающий список
+Textarea [ˈtɛkstˌɛrɪə] - Текстовая область
+Image [ˈɪmɪdʒ] - Изображение
+Video [ˈvɪdioʊ] - Видео
+Audio [ˈɔːdioʊ] - Аудио
+Animation [ˌænɪˈmeɪʃən] - Анимация
+Responsive [rɪˈspɒnsɪv] - Адаптивный
+Mobile [ˈmoʊbaɪl] - Мобильный
+Tablet [ˈtæblɪt] - Планшет
+Desktop [ˈdɛsktɒp] - Настольный компьютер
+Browser [ˈbraʊzər] - Браузер
+Chrome [kroʊm] - Chrome (браузер)
+Firefox [ˈfaɪəˌfɑks] - Firefox (браузер)
+Safari [səˈfɑːri] - Safari (браузер)
+Edge [ɛdʒ] - Edge (браузер)
+Internet [ˈɪntərnɛt] - Интернет
+Online [ˈɒnlaɪn] - Онлайн
+Offline [ˈɔːflaɪn] - Офлайн
+proofreader [ˈpruːfˌriːdər] - корректор
+indexer [ˈɪndɛksər] - индексатор
+birmingham [ˈbɜːrmɪŋˌhæm] - бирмингем
+at [æt] - в
+contributors [kənˈtrɪbjʊtərz] - участники
+preface [ˈpriːfɪs] - предисловие
+summary [ˈsʌməri] - резюме
+classes [ˈklæsɪz] - классы
+interfaces [ˈɪntərfeɪsɪz] - интерфейсы
+interface [ˈɪntərfeɪs] - интерфейс
+rest [rɛst] - отдых
+find [faɪnd] - находить
+filter [ˈfɪltər] - фильтровать
+map [mæp] - отображать
+reduce [rɪˈduːs] - уменьшать
+set [sɛt] - множество
+map [mæp] - карта
+state [steɪt] - состояние
+simplicity [sɪmˈplɪsɪti] - простота
+system [ˈsɪstəm] - система
+transpilation [trænsˌpaɪˈleɪʃən] - транспиляция
+mocking [ˈmɑːkɪŋ] - мокирование
+development [dɪˈvɛləpmənt] - разработка
+prettier [ˈprɪtiər] - красивее
+routing [ˈruːtɪŋ] - маршрутизация
+debugging [diːˈbʌɡɪŋ] - отладка
+application [ˌæplɪˈkeɪʃən] - приложение
+redis [ˈrɛdɪs] - редис
+typeorm [ˈtaɪpɔrm] - типорм
+graphql [ˈɡræfˌkwɪl] - графкюэль
+troubleshooting [ˈtrʌblˌʃuːtɪŋ] - устранение неполадок
+code [koʊd] - код
+in [ɪn] - в
+text [tɛkst] - текст
+src [sɑrs] - исходный код
+let [lɛt] - позволяет
+a [ə] - а
+b [biː] - би
+exten [ɛkˈstɛn] - расширение
+npm [ˌɛnpiːˈɛm] - npm (управление пакетами)
+install [ɪnˈstɔːl] - установить
+typescript [ˈtaɪpskrɪpt] - тайпскрипт
+bold [boʊld] - жирный
+administration [ədˌmɪnɪsˈtreɪʃən] - администрирование
+errata [ɪˈrætə] - поправки
+piracy [ˈpaɪrəsi] - пиратство
+reviews [rɪˈvjuːz] - обзоры
+oop [uːˌoʊˈpiː] - ООП (объектно-ориентированное программирование)
+vscode [ˌviːsiːkoʊd] - ВСКод (редактор кода Visual Studio Code)
+handsontypescript [ˌhændzˌɒnˈtaɪpskrɪpt] - практический тайпскрипт
+file [faɪl] - файл
+open [ˈoʊpən] - открыть
+view [vjuː] - вид
+terminal [ˈtɜːrmənl] - терминал
+package [ˈpækɪdʒ] - пакет
+init [ɪˈnɪt] - инициализировать
+tsc [tiː ɛs siː] - тсс (компилятор TypeScript)
+node [noʊd] - нода (среда выполнения)
+the [ðə] - артикль "the"
+and [ænd] - и
+number [ˈnʌmbər] - номер
+type [taɪp] - тип
+is [ɪz] - это (глагол "быть" в 3-ем лице единственного числа)
+not [nɑt] - не
+assignable [əˈsaɪnəbl] - приемлемый
+to [tuː] - к (предлог)
+function [ˈfʌŋkʃən] - функция
+else [ɛls] - иначе
+allow [əˈlaʊ] - разрешать
+const [kɒnst] - константа
+tom [tɒm] - Том
+canDrive [kæn draɪv] - может водить
+for [fɔːr] - для
+age [eɪdʒ] - возраст
+interface [ˈɪntərfeɪs] - интерфейс
+user [ˈjuːzər] - пользователь
+name [neɪm] - имя
+usr [ʌsr] - узр (вероятно, ошибка в написании)
+property [ˈprɒpərti] - свойство
+missing [ˈmɪsɪŋ] - отсутствующий
+but [bʌt] - но
+required [rɪˈkwaɪrd] - требуемый
+pretend [prɪˈtɛnd] - притворяться
+sometime [ˈsʌmˌtaɪm] - когда-нибудь
+later [ˈleɪtər] - позже
+someone [ˈsʌmˌwʌn] - кто-то
+uses [ˈjuzɪz] - использует
+encapsulation [ɛnˌkæpsjʊˈleɪʃən] - инкапсуляция
+abstraction [æbˈstrækʃən] - абстракция
+inheritance [ɪnˈhɛrɪtəns] - наследование
+polymorphism [ˌpɑːliˈmɔːrfɪzəm] - полиморфизм
+private [ˈpraɪvɪt] - приватный
+instanceof [ˌɪnˈstænsəv] - экземпляр класса
+a [ə] - артикль "a"
+instance [ˈɪnstəns] - экземпляр
+class [klæs] - класс
+person [ˈpɜːrsən] - человек
+string [strɪŋ] - строка
+jill [dʒɪl] - Джилл
+person [ˈpɜːrsən] - человек
+shape [ʃeɪp] - форма
+any [ˈɛni] - любой
+unknown [ʌnˈnoʊn] - неизвестный
+val [væl] - значение
+new [nuː] - новый
+push [pʊʃ] - добавить
+array [əˈreɪ] - массив
+if [ɪf] - если
+intersection [ˌɪntərˈsɛkʃən] - пересечение
+obj [ɒbʤ] - объект
+union [ˈjuːnjən] - объединение
+null [nʌl] - null
+unionObj [ˈjuːnjənɒbʤ] - объединение объекта
+literal [ˈlɪtərəl] - литерал
+john [dʒɒn] - Джон
+points [pɔɪnts] - очки
+score [skɔːr] - счет
+complexPerson [ˌkɒmplɛksˈpɜːrsən] - сложный человек
+return [rɪˈtɜːrn] - вернуть
+distance [ˈdɪstəns] - расстояние
+runMore [rʌn mɔːr] - беги больше
+void [vɔɪd] - пустота
+ate [eɪt] - ел
+calories [ˈkæləriz] - калории
+slept [slɛpt] - спал
+hours [ˈaʊərz] - часы
+undefined [ˌʌndɪˈfaɪnd] - неопределенный
+run [rʌn] - бежать
+boolean [ˈbuːliən] - булевый
+runner [ˈrʌnər] - бегун
+true [truː] - истина
+false [fɔːls] - ложь
+never [ˈnɛvər] - никогда
+throw [θroʊ] - выбросить
+msg [mɛsɪdʒ] - сообщение
+speak [spiːk] - говорить
+hello [həˈloʊ] - привет
+called [ˈkɔːld] - названный
+readonly [ˈriːdˌoʊnli] - только для чтения
+even [ˈiːvən] - даже
+getters [ˈɡɛtərz] - геттеры
+setters [ˈsɛtərz] - сеттеры
+getter [ˈɡɛtər] - геттер
+setter [ˈsɛtər] - сеттер
+speaker [ˈspiːkər] - динамик (говорящее устройство)
+get [ɡɛt] - получить
+set [sɛt] - установить

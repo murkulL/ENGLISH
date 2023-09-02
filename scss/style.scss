@@ -1,0 +1,144 @@
+@import './_global.scss';
+@import './_inputs.scss';
+@import './_modal.scss';
+@import './_reader.scss';
+@import './var.scss';
+
+@mixin input{
+    background: transparent;
+    border: 1px solid #bababa;
+    border-radius: 8px;
+    height: 30px;
+    color: white;
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+@mixin button{
+  background-color: transparent;
+    color: #bababa;
+    transition: all .3s ease-in-out;
+    border: transparent;
+    border-radius: 4px;
+    width: 100px;
+    height: 30px;
+
+    &:hover{
+      background-color: #bfbfbf3d;
+    }
+}
+
+
+.header{
+  a{
+    position: relative;
+    top: 5px;
+    text-decoration: none;
+    color: #bababa;
+    font-size: 16px;
+    font-weight: 400;
+    &:hover::after{
+      content: '';
+      position: absolute;
+      width: 100%;
+      height: 1px;
+      background-color: #bababa;
+      bottom: 0;
+      left: 0;
+
+    }
+  }
+  &__title{
+    text-align: center;
+    padding: 50px 0;
+  }
+  &__inner{
+    padding: 0 50px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 30px;
+  }
+  form{
+    display: flex;
+    gap: 30px;
+  }
+  input{
+    @include input;
+    width: 200px;
+    transition: all .2s ease-in-out;
+  }
+  button{
+    @include button;
+  }
+  input:focus-within{
+    width: 400px;
+  }
+  &__search{
+    position: relative;
+  }
+  &__img-input{
+    position: absolute;
+    stroke: #bababa;
+    height: 30px;
+    width: 30px;
+    left: 25px;
+    top: 156px; 
+  }
+}
+
+.words{
+  &__box-content{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    padding-bottom: 20px;
+  }
+  &__list-word,
+  &__list-transcription,
+  &__list-translation
+  {
+    color: #bababa;
+    border: 1px solid rgb(186, 186, 186);
+    padding: 10px 100px;
+    list-style: none;
+  }
+  &__list {
+    padding-top: 55px;
+  }
+  &__list-translation{
+    width: 100%;
+    width: 700px;
+  }
+  &__input-word,
+  &__input-transcription,
+  &__input-translation{
+    text-align: center;
+    @include button;
+    width: auto;
+  }
+
+  &__list-checkbox{
+    position: absolute; 
+    right: 25px;
+    margin-top: 8px;
+  }
+  &__box-content{
+    display: flex;
+  }
+  // &__list{
+  //   display: grid;
+  //   grid-template-columns: repeat(3, 1fr);
+  // }
+
+  &__button{
+    position: fixed;
+    @include button;
+    top: 250px;
+    right: 52px;
+  }
+    li{
+    text-align: center;
+    padding: 20px 20px;
+    padding-bottom: 0;
+  }
+}

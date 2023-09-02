@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="UTF-8">
+  <link type="image/png" sizes="32x32" rel="icon" href="/48.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Victor+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css">
+  <title><%= title %></title>
+</head>
+<body>
+  <header class="header">
+    <h1 class="header__title render">PDF Reader</h1>
+      <a class="header__link render" href="/">Main Page</a>
+  </header>
+
+  <form id="uploadForm" enctype="multipart/form-data">
+    <input type="file" name="pdfFile" accept=".pdf">
+    <button type="submit">Upload</button>
+  </form>
+  <div id="result"></div>
+  <script src="/upload.js"></script>
+</body>
+</html>
